@@ -18,9 +18,10 @@ classes: wide
 
 <h3>Talks</h3>
 
-* <a href="https://obiorag.github.io/files/LSM_Slides.pdf" target="_blank">Purdue Graduate Research Day Talk</a> A linear sampling method for recovering a clamped cavity in a thin plate.
+* <a href="https://obiorag.github.io/files/ccam_lunch_slides-1.pdf" target="_blank">CCAM Lunch Seminar</a> On sampling methods for recovering a cavity in a thin plate.
+* <a href="https://obiorag.github.io/files/LSM_Slides.pdf" target="_blank">Purdue Graduate Research Day</a> A linear sampling method for recovering a clamped cavity in a thin plate.
 * <a href="https://obiorag.github.io/files/A linear sampling method for the inverse cavity scattering problem of biharmonic waves - My Advanced Topics Presentation.pdf" target="_blank">My Advanced Topics Presentation</a> A linear sampling method for the inverse cavity scattering problem of biharmonic waves.
-* <a href="https://obiorag.github.io/files/FEM_Undersea_Acoustics.pdf" target="_blank">Finite Element Methods for Undersea Acoustics</a> Slides for a talk I gave in Purdue math student colloquium.
+* <a href="https://obiorag.github.io/files/FEM_Undersea_Acoustics.pdf" target="_blank">Finite Element Methods for Undersea Acoustics</a> Purdue Math Student Colloquium
 
 
 
