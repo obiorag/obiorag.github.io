@@ -1,48 +1,82 @@
 ---
 layout: page
-title: Experience
+title: ""
 permalink: /experiences/
 author_profile: true
 classes: wide
 ---
 
-## Employment
+### Employment
+{: style="font-size:.85em; color: #7a8288;"}
 
-### Purdue University – *Graduate Research Assistant*  
-**West Lafayette, IN** — *Aug 2023 – Present*
+<div class="cv-entry">
+  <strong>Purdue University</strong>, West Lafayette, IN  
+  <span class="cv-date">Aug 2023 – Present</span><br/>
+  <em>Graduate Research Assistant</em>
+</div>
 
-- Working under Professors Peijun Li and Isaac Harris on inverse problems in wave scattering.
+<div class="cv-entry">
+  <strong>MIT Lincoln Laboratory</strong>, Lexington, MA  
+  <span class="cv-date">May 2023 – Oct 2023</span><br/>
+  <em>Summer Research Intern, Group 36 – Integrated Missile Defense Technology</em>
+  <ul>
+    <li>Worked on compressive ISAR radar imaging.</li>
+  </ul>
+</div>
 
-### MIT Lincoln Laboratory – *Summer Research Intern*  
-**Lexington, MA**
+<div class="cv-entry">
+  <strong>MIT Lincoln Laboratory</strong>, Lexington, MA  
+  <span class="cv-date">May 2022 – Aug 2022</span><br/>
+  <em>Summer Research Intern, Group 37 – Advanced Undersea Systems & Technology</em>
+  <ul>
+    <li>Worked on undersea signal processing engineering.</li>
+  </ul>
+</div>
 
-- **Group 36: Integrated Missile Defense Technology** — *May 2023 – Oct 2023*  
-  Project in compressive ISAR radar imaging.
+<div class="cv-entry">
+  <strong>NJIT</strong>, Newark, NJ  
+  <span class="cv-date">July 2020 – May 2021</span><br/>
+  <em>Research Assistant & Graduate Researcher</em>
+  <ul>
+    <li>Conducted finite element modeling for underwater acoustic wave scattering.</li>
+  </ul>
+</div>
 
-- **Group 37: Advanced Undersea Systems & Technology** — *May 2022 – Aug 2022*  
-  Project in undersea signal processing engineering.
+<div class="cv-entry">
+  <strong>Accel Learning</strong>, Secaucus, NJ  
+  <span class="cv-date">Sep 2020 – Dec 2020</span><br/>
+  <em>Mathematics Instructor</em>
+</div>
 
-### New Jersey Institute of Technology (NJIT) – *Research Assistant*  
-**Newark, NJ** — *July 2020 – May 2021*
+<div class="cv-entry">
+  <strong>Mathnasium</strong>, Glen Rock, NJ  
+  <span class="cv-date">Sep 2018 – Jan 2019</span><br/>
+  <em>Mathematics Instructor & Tutor</em>
+</div>
 
-- Worked on finite element modeling for underwater acoustic wave scattering.
+### Teaching and Mentoring
+{: style="font-size:.85em; color: #7a8288;"}
 
-### Accel Learning – *Mathematics Instructor*  
-**Secaucus, NJ** — *Sep 2020 – Dec 2020*
+<div class="cv-entry">
+  <ul>
+    <li>Spring 2023: Teaching assistant for MA 511 – Linear Algebra and Applications</li>
+    <li>Fall 2022: Instructor for MA 251 – Multivariable Calculus</li>
+    <li>Spring 2022: Instructor for MA 162 – Calculus II</li>
+    <li>Fall 2021: Instructor for MA 161 – Calculus I</li>
+    <li>2020: Mentored students for AMC and AIME math competitions</li>
+  </ul>
+</div>
 
-### Mathnasium – *Instructor & Tutor*  
-**Glen Rock, NJ** — *Sep 2018 – Jan 2019*
-
----
-
-## Teaching & Mentoring
-
-- **Spring 2023** – Teaching Assistant, MA 511: Linear Algebra and Applications  
-- **Fall 2022** – Instructor, MA 251: Multivariable Calculus  
-- **Spring 2022** – Instructor, MA 162: Calculus II  
-- **Fall 2021** – Instructor, MA 161: Calculus I  
-- **2020** – Mentored students for AMC and AIME mathematics competitions
-
+<style>
+.cv-entry {
+  margin-bottom: 1.5em;
+}
+.cv-date {
+  float: right;
+  font-size: 0.9em;
+  color: #888;
+}
+</style>
 
 
 
