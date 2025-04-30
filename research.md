@@ -12,7 +12,7 @@ classes: wide
   Extended the linear sampling method and extended sampling method for scattering of biharmonic waves.
 
 - **[MS Thesis](https://obiorag.github.io/files/Finite_element_modeling_of_underwater_acoustic_environments_and_d.pdf)**  
-  *Finite Element Modeling of Underwater Acoustic Environments* — research on wave propagation in layered underwater media (Purdue, 2022).
+  *Finite Element Modeling of Underwater Acoustic Environments* — research on wave propagation in layered underwater media (NJIT, 2021).
 
 ---
 
