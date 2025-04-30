@@ -1,19 +1,20 @@
 ---
 layout: page
-title: 
+title: About
 permalink: /about/
 author_profile: true
 classes: wide
 ---
 
-  
-  
-  
-    
-    
- I am pursuing a PhD in Mathematics at Purdue University, advised by Dr. Peijun Li and Dr. Isaac Harris. I'm broadly interested in Partial Differential Equations and Inverse Scattering Problems.
+<div style="font-size: 1.05em; line-height: 1.6;">
 
-Outside of math, I spend a bunch of time doing creative writing and declamation/poetry, jogging, and enjoy discussing history and philosophy with others. In fact, I founded and organize the math history seminar here at Purdue. I was an undergraduate at Rutgers, where I studied mathematics and philosophy. Additionally, I completed an MS in Applied Mathematics at New Jersey Institute of Technology, where I was fortunate to be advised by Dr. Christina Frederick in forward and inverse scattering problems arising in underwater acoustics. 
+I am currently pursuing a Ph.D. in Mathematics at Purdue University, where I’m advised by Dr. Peijun Li and Dr. Isaac Harris. My research broadly lies in the analysis of partial differential equations and inverse scattering problems.
 
-Here is my <a href="https://obiorag.github.io/files/General_s_Resume.pdf" target="_blank">resume</a>
+Beyond mathematics, I’m passionate about creative writing, poetry and declamation, and recreational jogging. I also have a deep interest in history and philosophy—topics I often explore in conversation and in writing. I founded and organize the **Math History Seminar** at Purdue as a way to bridge these interests with mathematics.
 
+Previously, I completed my undergraduate studies at **Rutgers University**, where I majored in mathematics and philosophy. I went on to earn an **M.S. in Applied Mathematics** at the **New Jersey Institute of Technology**, working under Dr. Christina Frederick on forward and inverse scattering problems in underwater acoustics.
+
+You can view my full résumé here:  
+👉 <a href="https://obiorag.github.io/files/General_s_Resume.pdf" target="_blank"><strong>Download Resume (PDF)</strong></a>
+
+</div>
