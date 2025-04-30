@@ -1,27 +1,44 @@
 ---
 layout: page
-title: 
+title: Research
 permalink: /research/
 author_profile: true
 classes: wide
 ---
+
+## Research
+
+- **On Sampling Methods for the Inverse Cavity Scattering Problem of Biharmonic Waves** (in preparation, 2025)  
+  Extended the linear sampling method and extended sampling method for scattering of biharmonic waves.
+
+- **[MS Thesis](https://obiorag.github.io/files/Finite_element_modeling_of_underwater_acoustic_environments_and_d.pdf)**  
+  *Finite Element Modeling of Underwater Acoustic Environments* — research on wave propagation in layered underwater media (Purdue, 2022).
+
 ---
 
-<h3>Research</h3>
+## Expository Work
+
+- **[Direct Imaging Methods for Inverse Obstacle Scattering](https://obiorag.github.io/files/Direct_Imaging_Methods-2.pdf)** (submitted, 2023)  
+  An expository paper introducing direct sampling and imaging-based methods.  
+  → [View on arXiv](https://arxiv.org/abs/2311.16962)
+
+---
+
+## Talks
+
+- **[CCAM Lunch Seminar](https://obiorag.github.io/files/ccam_lunch_slides-1.pdf)**  
+  Sampling methods for recovering a cavity in a thin plate.
+
+- **[Purdue Graduate Research Day](https://obiorag.github.io/files/LSM_Slides.pdf)**  
+  A linear sampling method for recovering a clamped cavity in a thin plate.
+
+- **[Advanced Topics Presentation](https://obiorag.github.io/files/A_linear_sampling_method_for_the_inverse_cavity_scattering_problem_of_biharmonic_waves_-_My_Advanced_Topics_Presentation.pdf)**  
+  Presentation on the inverse cavity scattering problem for biharmonic waves.
+
+- **[Finite Element Methods for Undersea Acoustics](https://obiorag.github.io/files/FEM_Undersea_Acoustics.pdf)**  
+  Presented at the Purdue Math Student Colloquium.
 
 
-* A Linear Sampling Method for the Inverse Cavity Scattering Problem of Biharmonic Waves, in preparation, 2024-2025
-* <a href="https://obiorag.github.io/files/Finite element modeling of underwater acoustic environments and d.pdf" target="_blank">MS Thesis.</a> A copy of my Master's Thesis
-<h3>Expository</h3>
-
-* <a href="https://obiorag.github.io/files/Direct_Imaging_Methods-2.pdf" target="_blank">Direct Imaging Methods for Inverse Obstacle Scattering, submitted, 2023</a> <a href="https://arxiv.org/abs/2311.16962" target="_blank">(arXiv:2311.16962) 
-
-<h3>Talks</h3>
-
-* <a href="https://obiorag.github.io/files/ccam_lunch_slides-1.pdf" target="_blank">CCAM Lunch Seminar</a> On sampling methods for recovering a cavity in a thin plate.
-* <a href="https://obiorag.github.io/files/LSM_Slides.pdf" target="_blank">Purdue Graduate Research Day</a> A linear sampling method for recovering a clamped cavity in a thin plate.
-* <a href="https://obiorag.github.io/files/A linear sampling method for the inverse cavity scattering problem of biharmonic waves - My Advanced Topics Presentation.pdf" target="_blank">My Advanced Topics Presentation</a> A linear sampling method for the inverse cavity scattering problem of biharmonic waves.
-* <a href="https://obiorag.github.io/files/FEM_Undersea_Acoustics.pdf" target="_blank">Finite Element Methods for Undersea Acoustics</a> Purdue Math Student Colloquium
 
 
 
