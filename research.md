@@ -26,8 +26,11 @@ classes: wide
 
 ## Talks
 
+- **[Purdue Grad Student Analysis Seminar](https://obiorag.github.io/files/Grad_Student_Analysis_Seminar__1_hr_.pdf)**  
+  Extending Qualitative Reconstruction in Biharmonic Scattering from Full to Limited Data
+  
 - **[CCAM Lunch Seminar](https://obiorag.github.io/files/ccam_lunch_slides-1.pdf)**  
-  Sampling methods for recovering a cavity in a thin plate.
+  Extending Linear Sampling Method to Biharmonic Scattering
 
 - **[Purdue Graduate Research Day](https://obiorag.github.io/files/LSM_Slides.pdf)**  
   A linear sampling method for recovering a clamped cavity in a thin plate.
