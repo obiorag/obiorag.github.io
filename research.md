@@ -11,7 +11,7 @@ classes: wide
 - **On Sampling Methods for the Inverse Cavity Scattering Problem of Biharmonic Waves** (in preparation, 2025)  
   Extended the linear sampling method and extended sampling method for scattering of biharmonic waves.
 
-- **[MS Thesis](https://obiorag.github.io/files/Finite_element_modeling_of_underwater_acoustic_environments_and_d.pdf)**  
+- **[MS Thesis](https://obiorag.github.io/files/ms_thesis.pdf)**  
   *Finite Element Modeling of Underwater Acoustic Environments* — research on wave propagation in layered underwater media (NJIT, 2021).
 
 ---
