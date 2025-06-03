@@ -35,7 +35,7 @@ classes: wide
 - **[Purdue Graduate Research Day](https://obiorag.github.io/files/LSM_Slides.pdf)**  
   A linear sampling method for recovering a clamped cavity in a thin plate.
 
-- **[Advanced Topics Presentation](https://obiorag.github.io/files/A_linear_sampling_method_for_the_inverse_cavity_scattering_problem_of_biharmonic_waves_-_My_Advanced_Topics_Presentation.pdf)**  
+- **[Advanced Topics Presentation](https://obiorag.github.io/files/A linear sampling method for the inverse cavity scattering problem of biharmonic waves - My Advanced Topics Presentation.pdf)**  
   Presentation on the inverse cavity scattering problem for biharmonic waves.
 
 - **[Finite Element Methods for Undersea Acoustics](https://obiorag.github.io/files/FEM_Undersea_Acoustics.pdf)**  
