@@ -26,11 +26,14 @@ classes: wide
 
 ## Talks
   
+  - **[UCI PDE Summer Conference](https://obiorag.github.io/files/UCI_PDE_SUMMER_SCHOOL_SLIDES-5.pdf)**  
+  Extending Qualitative Reconstruction to Biharmonic Scattering with Limited Data
+
   - **[UCI PDE Summer Conference Poster](https://obiorag.github.io/files/uci_pde_poster__Main_.pdf)**  
   Title: Extending Qualitative Reconstruction Methods to Biharmonic Wave Scattering
 
 - **[Purdue Grad Student Analysis Seminar](https://obiorag.github.io/files/Grad_Student_Analysis_Seminar__1_hr_.pdf)**  
-  Extending Qualitative Reconstruction in Biharmonic Scattering from Full to Limited Data
+  Extending Qualitative Reconstruction to Biharmonic Scattering from Full to Limited Data
   
 - **[CCAM Lunch Seminar](https://obiorag.github.io/files/ccam_lunch_slides-1.pdf)**  
   Extending Linear Sampling Method to Biharmonic Scattering
