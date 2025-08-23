@@ -521,3 +521,10 @@ footer .social-icons a:hover {
   }
 }
 
+footer .social-icons a {
+    color: #404040; /* Dark gray, or replace with the color you prefer */
+}
+
+footer .social-icons a:hover {
+    color: #0085a1; /* Change to a hover color you want */
+}
