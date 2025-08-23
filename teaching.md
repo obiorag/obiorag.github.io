@@ -32,7 +32,7 @@ You can find the quizzes and quiz solutions below:
 
 ## Syllabus & Course Calendar
 
-- **[Syllabus](https://obiorag.github.io/files/MA16020 Syllabus.pdf)** 
+- **[Syllabus](https://obiorag.github.io/files/MA16020_Syllabus.pdf)** 
 - **[Course Calendar](https://obiorag.github.io/files/Course_Calendar.pdf)** 
 
 
