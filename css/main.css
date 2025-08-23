@@ -528,3 +528,7 @@ footer .social-icons a {
 footer .social-icons a:hover {
     color: #0085a1; /* Change to a hover color you want */
 }
+.social-icons .label {
+  color: #404040 !important;
+}
+
