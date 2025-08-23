@@ -15,9 +15,9 @@ Welcome to the course page for **Applied Calculus II (16020)** at Purdue Univers
 ### Lecture Notes & Slides
 Here you will find lecture notes and slides for each week:
 
-- **[Week 1: Review - Differentiation and Integration, FTC. Integration by Substitution I](#)** - (Link to PDF or slide)
-- **[Week 2: Integration by Substitution II and Applications](#)** - (Link to PDF or slide)
-- **[Week 3: Integration - Natural Logarithms, Integration by Parts I and II](#)** - (Link to PDF or slide)
+- **[Week 1: Review - Differentiation and Integration, FTC. Integration by Substitution I](#)** 
+- **[Week 2: Integration by Substitution II and Applications](#)** 
+- **[Week 3: Integration - Natural Logarithms, Integration by Parts I and II](#)** 
 
 > **Note:** Materials will be updated regularly as we progress through the course.
 
@@ -67,4 +67,4 @@ If you are looking for additional resources or support materials for calculus II
 
 ---
 
-> **Reminder:** Keep up with the readings and practice problems to stay on track. Regular participation is key to mastering the material.
+> **Reminder:** Keep up with the homework to stay on track. Regular participation and review is key to mastering the material.
