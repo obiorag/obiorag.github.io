@@ -32,8 +32,9 @@ You can find the quizzes and quiz solutions below:
 
 ## Syllabus & Course Calendar
 
-- **[Syllabus](#)** - (Link to Syllabus)
-- **[Course Calendar](#)** - (Link to the course calendar)
+- **[Syllabus](#)** - 
+- **[Course Calendar](https://obiorag.github.io/files/Course_Calendar.pdf)** -
+
 
 > **Note:** Be sure to regularly check the syllabus and course calendar to stay on top of assignments, deadlines, and exam dates.
 
