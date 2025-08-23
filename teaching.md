@@ -32,8 +32,8 @@ You can find the quizzes and quiz solutions below:
 
 ## Syllabus & Course Calendar
 
-- **[Syllabus](#)** - 
-- **[Course Calendar](https://obiorag.github.io/files/Course_Calendar.pdf)** -
+- **[Syllabus](https://obiorag.github.io/files/MA_16020_Syllabus.pdf)** 
+- **[Course Calendar](https://obiorag.github.io/files/Course_Calendar.pdf)** 
 
 
 > **Note:** Be sure to regularly check the syllabus and course calendar to stay on top of assignments, deadlines, and exam dates.
