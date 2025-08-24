@@ -27,9 +27,7 @@ I completed my undergraduate studies at <strong>Rutgers University</strong>, maj
 Later, I earned an <strong>M.S. in Applied Mathematics</strong> at the <strong>New Jersey Institute of Technology</strong>, where I worked with <strong>Dr. Christina Frederick</strong> on forward and inverse scattering problems in <strong>underwater acoustics</strong>.
 </p>
 
-<p>
-📄 You can view my full résumé <a href="/assets/resume.pdf"><strong>here</strong></a>.
-</p>
+
 
 </div>
 
