@@ -1,6 +1,5 @@
 ---
 layout: page
-title: "Applied Calculus II - MA 16020"
 permalink: /teaching/
 ---
 
