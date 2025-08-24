@@ -30,6 +30,23 @@ common-js:
     {% include footer.html %}
   
     {% include footer-scripts.html %}
-  
+    <script>
+  const toggle = document.getElementById("theme-toggle");
+  const body = document.body;
+
+  // Load saved preference
+  if (localStorage.getItem("theme") === "dark") {
+    body.classList.add("dark-mode");
+  }
+
+  toggle.addEventListener("click", () => {
+    body.classList.toggle("dark-mode");
+    localStorage.setItem(
+      "theme",
+      body.classList.contains("dark-mode") ? "dark" : "light"
+    );
+  });
+</script>
+
   </body>
 </html>
