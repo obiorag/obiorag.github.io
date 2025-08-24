@@ -67,7 +67,7 @@ classes: wide
 
 <div class="cv-entry">
   <div class="cv-header">
-    <strong>Mathnasium</strong>, Glen Rock, NJ  
+    <strong>Mathnasium</strong> Glen Rock, NJ  
     <span class="cv-date">Sep 2018 – Jan 2019</span>
   </div>
   <em>Mathematics Instructor & Tutor</em>
