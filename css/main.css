@@ -540,4 +540,18 @@ body.dark-mode {
 body.dark-mode a {
   color: #9ecbff;
 }
+/* Dark mode styles */
+body.dark-mode {
+  background-color: #111 !important;
+  color: #eee !important;
+}
+
+body.dark-mode a {
+  color: #9ecbff !important;
+}
+
+body.dark-mode .navbar-custom {
+  background-color: #222 !important;
+  border-color: #333 !important;
+}
 
