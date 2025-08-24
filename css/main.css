@@ -531,4 +531,13 @@ footer .social-icons a:hover {
 .social-icons .label {
   color: #404040 !important;
 }
+/* Dark mode */
+body.dark-mode {
+  background-color: #111;
+  color: #eee;
+}
+
+body.dark-mode a {
+  color: #9ecbff;
+}
 
