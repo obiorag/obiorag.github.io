@@ -13,7 +13,7 @@ classes: wide
 
 <div class="cv-entry">
   <div class="cv-header">
-    <strong>Purdue University</strong>, West Lafayette, IN  
+    <strong>Purdue University</strong> West Lafayette, IN  
     <span class="cv-date">Aug 2023 – Present</span>
   </div>
   <em>Graduate Research Assistant</em>
