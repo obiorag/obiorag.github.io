@@ -21,29 +21,30 @@ classes: wide
 
 <div class="cv-entry">
   <div class="cv-header">
-    <strong>MIT Lincoln Laboratory</strong>, Lexington, MA  
+    <strong>MIT Lincoln Laboratory</strong> Lexington, MA  
     <span class="cv-date">May 2023 – Oct 2023</span>
   </div>
   <em>Summer Research Intern, Group 36 – Integrated Missile Defense Technology</em>
   <ul>
-    <li>Worked on compressive ISAR radar imaging.</li>
+    <li>Applied compressive sensing techniques to enhance radar imaging for missile target detection, improving signal reconstruction
+accuracy and efficiency. Project on Bayesian inverse problems in inverse synthetic aperture radar.</li>
   </ul>
 </div>
 
 <div class="cv-entry">
   <div class="cv-header">
-    <strong>MIT Lincoln Laboratory</strong>, Lexington, MA  
+    <strong>MIT Lincoln Laboratory</strong> Lexington, MA  
     <span class="cv-date">May 2022 – Aug 2022</span>
   </div>
   <em>Summer Research Intern, Group 37 – Advanced Undersea Systems & Technology</em>
   <ul>
-    <li>Worked on undersea signal processing engineering.</li>
+    <li>Worked on algorithms to analyze coherence loss in sonar signals, improving underwater detection and tracking capabilities, and applied advanced sonar array interferometry techniques to extract spatial information from acoustic wave‑front</li>
   </ul>
 </div>
 
 <div class="cv-entry">
   <div class="cv-header">
-    <strong>NJIT</strong>, Newark, NJ  
+    <strong>NJIT</strong> Newark, NJ  
     <span class="cv-date">July 2020 – May 2021</span>
   </div>
   <em>Research Assistant & Graduate Researcher</em>
@@ -54,7 +55,7 @@ classes: wide
 
 <div class="cv-entry">
   <div class="cv-header">
-    <strong>Accel Learning</strong>, Secaucus, NJ  
+    <strong>Accel Learning</strong> Secaucus, NJ  
     <span class="cv-date">Sep 2020 – Dec 2020</span>
   </div>
   <em>Mathematics Instructor</em>
@@ -62,7 +63,7 @@ classes: wide
 
 <div class="cv-entry">
   <div class="cv-header">
-    <strong>Mathnasium</strong>, Glen Rock, NJ  
+    <strong>Mathnasium</strong> Glen Rock, NJ  
     <span class="cv-date">Sep 2018 – Jan 2019</span>
   </div>
   <em>Mathematics Instructor & Tutor</em>
