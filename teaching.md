@@ -5,7 +5,7 @@ permalink: /teaching/
 
 # Applied Calculus II - MA 16020: Fall 2025
 
-Welcome to the course page for **Applied Calculus II (16020)** at Purdue University. Below you'll find all relevant resources for the course, including lecture notes, slides, quizzes, quiz solutions, the syllabus, and the course calendar.
+Welcome to the course page for **Applied Calculus II (MA 16020)** at Purdue University. Below you'll find all relevant resources for the course, including lecture notes, slides, quizzes, quiz solutions, the syllabus, and the course calendar.
 
 ---
 
