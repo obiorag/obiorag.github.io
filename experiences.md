@@ -16,7 +16,7 @@ classes: wide
 
 <div class="cv-entry">
   <div class="cv-header">
-    <strong>Purdue University</strong>, West Lafayette, IN  
+    <strong>Purdue University</strong> West Lafayette, IN  
     <span class="cv-date">Aug 2023 – Present</span>
   </div>
   <em>Graduate Research Assistant</em>
@@ -24,7 +24,7 @@ classes: wide
 
 <div class="cv-entry">
   <div class="cv-header">
-    <strong>MIT Lincoln Laboratory</strong>, Lexington, MA  
+    <strong>MIT Lincoln Laboratory</strong> Lexington, MA  
     <span class="cv-date">May 2023 – Oct 2023</span>
   </div>
   <em>Summer Research Intern, Group 36 – Integrated Missile Defense Technology</em>
@@ -36,7 +36,7 @@ classes: wide
 
 <div class="cv-entry">
   <div class="cv-header">
-    <strong>MIT Lincoln Laboratory</strong>, Lexington, MA  
+    <strong>MIT Lincoln Laboratory</strong> Lexington, MA  
     <span class="cv-date">May 2022 – Aug 2022</span>
   </div>
   <em>Summer Research Intern, Group 37 – Advanced Undersea Systems & Technology</em>
@@ -48,7 +48,7 @@ classes: wide
 
 <div class="cv-entry">
   <div class="cv-header">
-    <strong>NJIT</strong>, Newark, NJ  
+    <strong>NJIT</strong> Newark, NJ  
     <span class="cv-date">July 2020 – May 2021</span>
   </div>
   <em>Research Assistant & Graduate Researcher</em>
@@ -59,7 +59,7 @@ classes: wide
 
 <div class="cv-entry">
   <div class="cv-header">
-    <strong>Accel Learning</strong>, Secaucus, NJ  
+    <strong>Accel Learning</strong> Secaucus, NJ  
     <span class="cv-date">Sep 2020 – Dec 2020</span>
   </div>
   <em>Mathematics Instructor</em>
@@ -84,7 +84,7 @@ classes: wide
   <ul>
     <li><strong>Spring 2023</strong> – Teaching Assistant, MA 511: Linear Algebra and Applications
       <ul>
-        <li>Held weekly office hours and problem-solving sessions for graduate students.</li>
+        <li>Held weekly office hours for graduate students.</li>
         <li>Graded assignments and provided clarification of core course material.</li>
       </ul>
     </li>
@@ -96,7 +96,7 @@ classes: wide
     </li>
     <li><strong>Spring 2022</strong> – Instructor, MA 162: Calculus II</li>
     <li><strong>Fall 2021</strong> – Instructor, MA 161: Calculus I</li>
-    <li><strong>2020</strong> – Mentored students preparing for AMC and AIME math competitions</li>
+    <li><strong>Spring-Fall 2020</strong> – Mentored students preparing for AMC and AIME math competitions</li>
   </ul>
 </div>
 
