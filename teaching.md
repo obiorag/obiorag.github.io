@@ -15,8 +15,8 @@ Welcome to the course page for **Applied Calculus II (MA 16020)** at Purdue Univ
 Here you will find lecture notes and slides for each week:
 
 - **[Week 1: Review - Differentiation and Integration, FTC. Integration by Substitution I](#)**
-   ◻ [Slides 1: MA 16020 Intro & Course Logistics](https://obiorag.github.io/files/MA16020_Intro.pdf) 
-   ◻ [Lecture 1: Review of Differentiation](https://obiorag.github.io/files/Lec_1.pdf) 
+  - ◻ [Slides 1: MA 16020 Intro & Course Logistics](https://obiorag.github.io/files/MA16020_Intro.pdf) 
+  - ◻ [Lecture 1: Review of Differentiation](https://obiorag.github.io/files/Lec_1.pdf) 
 - **[Week 2: Integration by Substitution II and Applications](#)** 
 - **[Week 3: Integration - Natural Logarithms, Integration by Parts I and II](#)** 
 
