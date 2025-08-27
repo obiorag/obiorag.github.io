@@ -16,7 +16,9 @@ Here you will find lecture notes and slides for each week:
 
 - **[Week 1: Review - Differentiation and Integration, FTC. Integration by Substitution I](#)**
   - ◻ [Slides 1: MA 16020 Intro & Course Logistics](https://obiorag.github.io/files/MA16020_Intro.pdf) 
-  - ◻ [Lecture 1: Review of Differentiation](https://obiorag.github.io/files/Lec_1.pdf) 
+  - ◻ [Lecture 1: Review of Differentiation](https://obiorag.github.io/files/Lec_1.pdf)
+  - ◻ [Lecture 2: Review of Basic Integration](https://obiorag.github.io/files/Lec_2.pdf)
+  - ◻ [Lecture 2: Integration Rules](https://obiorag.github.io/files/Lec_2_integration.pdf)
 - **[Week 2: Integration by Substitution II and Applications](#)** 
 - **[Week 3: Integration - Natural Logarithms, Integration by Parts I and II](#)** 
 
