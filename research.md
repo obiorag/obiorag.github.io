@@ -8,14 +8,14 @@ title: ""
 
 ## Papers
 
-1. **Sampling Methods for the Inverse Cavity Scattering Problem of Biharmonic Waves**  
-   (Submitted to *Inverse Problems*, 2025)
+1. *Sampling Methods for the Inverse Cavity Scattering Problem of Biharmonic Waves*  
+   (with I. Harris and P. Li, Submitted to *Inverse Problems*, 2025)
 
 ---
 
 ## Expository Work
 
-- **[Direct Imaging Methods for Inverse Obstacle Scattering](https://obiorag.github.io/files/Direct_Imaging_Methods-2.pdf)**
+- *[Direct Imaging Methods for Inverse Obstacle Scattering](https://obiorag.github.io/files/Direct_Imaging_Methods-2.pdf)*
 
 ---
 
