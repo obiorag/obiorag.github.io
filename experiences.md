@@ -83,6 +83,7 @@ classes: wide
 <div id="teaching" class="cv-entry">
   <ul>
     <li><strong>Fall 2025</strong> – Lecturer, MA 16020: Applied Calculus II</li>
+    <li><strong>Spring 2025</strong> – Mentor, Purdue Math Directed Reading Program, Project: Computational Topology</li>
     <li><strong>Spring 2023</strong> – Teaching Assistant, MA 511: Linear Algebra and Applications</li>
     <li><strong>Fall 2022</strong> – Instructor, MA 251: Multivariable Calculus</li>
     <li><strong>Spring 2022</strong> – Instructor, MA 162: Calculus II</li>
