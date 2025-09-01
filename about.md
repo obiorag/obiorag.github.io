@@ -6,28 +6,32 @@ author_profile: true
 classes: wide
 ---
 
-# About Me
+# Academic Journey
 <hr style="margin: 1em 0 2em 0; border: none; border-top: 2px solid #ddd; width: 60%;">
 
 <div class="content">
 
-<p>
-I am currently pursuing a Ph.D. in Mathematics at <strong>Purdue University</strong>, advised by <strong>Dr. Peijun Li</strong> and <strong>Dr. Isaac Harris</strong>.  
-My research interests lie broadly in the analysis of <strong>partial differential equations</strong> and <strong>inverse scattering problems</strong>.
-</p>
+### Ph.D. in Mathematics, Purdue University (2024–Present)
+- Advisors: **Dr. Peijun Li** and **Dr. Isaac Harris**  
+- Research focus: **Partial differential equations**, **inverse scattering problems**, and **wave propagation**  
+- Founder and Organizer of the **Math History Seminar**, connecting historical perspectives with modern mathematics
 
-<p>
-Outside of mathematics, I am passionate about <strong>creative writing</strong>, <strong>poetry and declamation</strong>, and recreational <strong>jogging</strong>.  
-I also maintain a deep interest in <strong>history</strong> and <strong>philosophy</strong>—topics I frequently explore in both conversation and writing.  
-To combine these pursuits with my mathematical background, I founded and currently organize the <strong>Math History Seminar</strong> at Purdue.
-</p>
+### M.S. in Applied Mathematics, New Jersey Institute of Technology
+- Advisor: **Dr. Christina Frederick**  
+- Thesis: Forward and inverse scattering in **underwater acoustics**  
+- Key projects: Modeling wave propagation in underwater acoustic environments via finite element methods and domain decomposition
 
-<p>
-I completed my undergraduate studies at <strong>Rutgers University</strong>, majoring in <strong>mathematics</strong> and <strong>philosophy</strong>.  
-Later, I earned an <strong>M.S. in Applied Mathematics</strong> at the <strong>New Jersey Institute of Technology</strong>, where I worked with <strong>Dr. Christina Frederick</strong> on forward and inverse scattering problems in <strong>underwater acoustics</strong>.
-</p>
+### B.A. in Mathematics & Philosophy, Rutgers University
+- Concentrations: **Mathematics** and **Philosophy**  
+- Interests: Modern philosophy, logic, and continental philosophy  
+- Activities: Campus seminars, philosophical writing, and student-led discussions
 
+---
 
+### Interests Beyond Mathematics
+- **Creative writing, poetry, and declamation**  
+- **Recreational jogging and fitness**  
+- **History and philosophy**, with a focus on connecting cultural ideas to scientific thought
 
 </div>
 
@@ -47,7 +51,12 @@ Later, I earned an <strong>M.S. in Applied Mathematics</strong> at the <strong>N
   hr {
     margin: 0 auto 2em auto;
   }
-  p {
-    margin-bottom: 1.5em;
+  .content h3 {
+    margin-top: 1.5em;
+    color: #444;
+  }
+  .content ul {
+    margin-left: 1.5em;
   }
 </style>
+
