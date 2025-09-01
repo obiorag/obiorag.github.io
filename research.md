@@ -5,7 +5,7 @@ author_profile: true
 classes: wide
 ---
 
-## Research
+## Papers
 
 - **Sampling Methods for the Inverse Cavity Scattering Problem of Biharmonic Waves** (Submitted, 2025)  
 
