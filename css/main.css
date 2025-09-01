@@ -358,15 +358,4 @@ footer .social-icons a:hover {
   }
 }
 
-/* Numbered list for Papers */
-#research ol {
-  list-style-type: decimal;
-  margin-left: 1.5em;
-}
-
-/* Square bullets for Talks */
-.talk-list {
-  list-style-type: square;
-  margin-left: 1.5em;
-}
 
