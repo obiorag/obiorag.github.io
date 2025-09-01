@@ -92,7 +92,6 @@ classes: wide
   </ul>
 </div>
 
-</div>
 
 <style>
 .timeline {
