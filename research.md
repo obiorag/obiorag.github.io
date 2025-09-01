@@ -3,6 +3,7 @@ layout: page
 permalink: /research/
 author_profile: true
 classes: wide
+title: ""
 ---
 
 ## Papers
