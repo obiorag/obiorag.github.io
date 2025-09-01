@@ -7,9 +7,7 @@ classes: wide
 ---
 
 # Academic Journey
-<hr style="margin: 1em 0 2em 0; border: none; border-top: 2px solid #ddd; width: 60%;">
-
-<div class="content">
+---
 
 ### Ph.D. in Mathematics, Purdue University (2021–Present)
 - Advisors: **Dr. Peijun Li** and **Dr. Isaac Harris**  
@@ -28,35 +26,10 @@ classes: wide
 
 ---
 
-### Interests Beyond Mathematics
+# Interests Beyond Mathematics
 - **Creative writing, poetry, and declamation**  
 - **Recreational jogging and fitness**  
 - **History and philosophy**, with a focus on connecting cultural ideas to scientific thought
 
-</div>
 
-<style>
-  .content {
-    max-width: 700px;
-    margin: auto;
-    font-size: 1.05em;
-    line-height: 1.7;
-    color: #333;
-  }
-  h1 {
-    text-align: center;
-    font-size: 2em;
-    color: #222;
-  }
-  hr {
-    margin: 0 auto 2em auto;
-  }
-  .content h3 {
-    margin-top: 1.5em;
-    color: #444;
-  }
-  .content ul {
-    margin-left: 1.5em;
-  }
-</style>
 
