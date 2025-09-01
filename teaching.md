@@ -1,6 +1,7 @@
 ---
 layout: page
 permalink: /teaching/
+title: ""
 ---
 
 # Applied Calculus II - MA 16020: Fall 2025
