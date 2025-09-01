@@ -82,22 +82,15 @@ classes: wide
 
 <div id="teaching" class="cv-entry">
   <ul>
-    <li><strong>Spring 2023</strong> – Teaching Assistant, MA 511: Linear Algebra and Applications
-      <ul>
-        <li>Held weekly office hours for graduate students.</li>
-        <li>Graded assignments and provided clarification of core course material.</li>
-      </ul>
-    </li>
-    <li><strong>Fall 2022</strong> – Instructor, MA 251: Multivariable Calculus
-      <ul>
-        <li>Designed and delivered lectures, problem sets, and exams for a large undergraduate class.</li>
-        <li>Organized weekly review sessions to reinforce key concepts.</li>
-      </ul>
-    </li>
+    <li><strong>Fall 2025</strong> – Lecturer, MA 16020: Applied Calculus II</li>
+    <li><strong>Spring 2023</strong> – Teaching Assistant, MA 511: Linear Algebra and Applications</li>
+    <li><strong>Fall 2022</strong> – Instructor, MA 251: Multivariable Calculus</li>
     <li><strong>Spring 2022</strong> – Instructor, MA 162: Calculus II</li>
     <li><strong>Fall 2021</strong> – Instructor, MA 161: Calculus I</li>
     <li><strong>Spring-Fall 2020</strong> – Mentored students preparing for AMC and AIME math competitions</li>
   </ul>
+</div>
+
 </div>
 
 <style>
