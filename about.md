@@ -11,7 +11,7 @@ classes: wide
 
 <div class="content">
 
-### Ph.D. in Mathematics, Purdue University (2024–Present)
+### Ph.D. in Mathematics, Purdue University (2021–Present)
 - Advisors: **Dr. Peijun Li** and **Dr. Isaac Harris**  
 - Research focus: **Partial differential equations**, **inverse scattering problems**, and **wave propagation**  
 - Founder and Organizer of the **Math History Seminar**, connecting historical perspectives with modern mathematics
