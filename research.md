@@ -9,7 +9,8 @@ title: ""
 ## Papers
 
 1. *Sampling Methods for the Inverse Cavity Scattering Problem of Biharmonic Waves*  
-   (with I. Harris and P. Li, Submitted to *Inverse Problems*, 2025)
+(with [I. Harris](https://sites.google.com/site/isaacpurduemath/home) and [P. Li](https://www.cc.ac.cn/en/article/5/66.html?zc=36), Submitted to *Inverse Problems*, 2025)
+
 
 ---
 
