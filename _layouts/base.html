@@ -1,4 +1,3 @@
----
 common-css:
   - "/css/bootstrap.min.css"
   - "/css/bootstrap-social.css"
@@ -30,28 +29,7 @@ common-js:
     {% include footer.html %}
   
     {% include footer-scripts.html %}
-    <script>
-document.addEventListener("DOMContentLoaded", function() {
-  const toggle = document.getElementById("theme-toggle");
-  const body = document.body;
-
-  if (!toggle) return; // safety check
-
-  // Load saved preference
-  if (localStorage.getItem("theme") === "dark") {
-    body.classList.add("dark-mode");
-  }
-
-  toggle.addEventListener("click", () => {
-    body.classList.toggle("dark-mode");
-    localStorage.setItem(
-      "theme",
-      body.classList.contains("dark-mode") ? "dark" : "light"
-    );
-  });
-});
-</script>
-
 
   </body>
 </html>
+
