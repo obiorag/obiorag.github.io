@@ -61,7 +61,7 @@ You can find the quizzes and quiz solutions below:
 - [Purdue Math Help Room](https://www.math.purdue.edu/academic/courses/helproom.html)
 - [Math Resource Room Schedule](https://www.math.purdue.edu/academic/officehours)
 - [Supplemental Instruction (SI) Schedule](https://www.purdue.edu/asc/si/schedule.html?_ga=2.13024823.1670325777.1756749213-265588409.1744054773)
-Feel free to drop by during office hours if you have any questions or need further help with the material.
+
 
 ---
 
