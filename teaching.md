@@ -22,7 +22,7 @@ Here you will find lecture notes and slides for each week:
   - ◻ [Lecture 2: Integration Rules](https://obiorag.github.io/files/Lec_2_integration.pdf)
   - ◻ [Lecture 3: Integration by Substitution I](https://obiorag.github.io/files/Lec_3.pdf)
 - **[Week 2: Integration by Substitution II and Applications](#)**
-  - ◻ [Lecture 3: Integration by Substitution I](https://obiorag.github.io/files/Lec_4.pdf)
+  - ◻ [Lecture 3: Integration by Substitution II](https://obiorag.github.io/files/Lec_4.pdf)
 - **[Week 3: Integration - Natural Logarithms, Integration by Parts I and II](#)** 
 
 > **Note:** Materials will be updated regularly as we progress through the course.
