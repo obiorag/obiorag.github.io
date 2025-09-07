@@ -24,6 +24,7 @@ Here you will find lecture notes and slides for each week:
 - **[Week 2: Integration by Substitution II and Applications](#)**
   - ◻ [Lecture 4: Integration by Substitution II](https://obiorag.github.io/files/Lec_4.pdf)
   - ◻ [Lecture 5: Integration by Substitution III: Class Worksheet](https://obiorag.github.io/files/FA25_MA16020_L5_Worksheet.pdf)
+  - ◻ [Lecture 5: Integration by Substitution III: Class Worksheet Solutions](https://obiorag.github.io/files/FA25_MA16020_L5_Notes.pdf) 
 - **[Week 3: Integration - Natural Logarithms, Integration by Parts I and II](#)** 
 
 > **Note:** Materials will be updated regularly as we progress through the course.
