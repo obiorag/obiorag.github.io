@@ -19,7 +19,7 @@ classes: wide
 - Thesis: Forward and inverse scattering in **underwater acoustics**  
 - Key projects: Modeling wave propagation in underwater acoustic environments via finite element methods and domain decomposition
 
-### B.A. in Mathematics & Philosophy, Rutgers University
+### B.A. in Mathematics, Minor: Philosophy, Rutgers University
 - Concentrations: **Mathematics** and **Philosophy**  
 - Interests: Modern philosophy, logic, and continental philosophy  
 - Activities: Campus seminars, philosophical writing, and student-led discussions
