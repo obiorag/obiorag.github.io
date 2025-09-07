@@ -32,7 +32,7 @@ Here you will find lecture notes and slides for each week:
 You can find the quizzes and quiz solutions below:
 
 - **[Quiz 1](https://obiorag.github.io/files/MA_16020___Quiz_1-3.pdf)**  
-- **[Quiz 1 Solutions](#)** 
+- **[Quiz 1 Solutions](https://obiorag.github.io/files/MA_16020_Quiz_1_Solutions.pdf)** 
 
 
 ---
