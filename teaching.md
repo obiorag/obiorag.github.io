@@ -31,7 +31,7 @@ Here you will find lecture notes and slides for each week:
 ### Quizzes
 You can find the quizzes and quiz solutions below:
 
-- **[Quiz 1](#)**  
+- **[Quiz 1](https://obiorag.github.io/files/MA_16020___Quiz_1-3.pdf)**  
 - **[Quiz 1 Solutions](#)** 
 
 
