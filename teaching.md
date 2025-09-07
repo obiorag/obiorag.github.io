@@ -43,8 +43,7 @@ You can find the quizzes and quiz solutions below:
 - **Location:** WTHR 104  
 
 ### Important Notes
-- 
-- There is an **exam memo** in Brightspace under **Exam Information**. Please read it carefully.  
+- There is an **exam memo** in Brightspace under **Exam Information** and linked above. Please read it carefully.  
 - **Old exams with solutions** are also available in the same folder — a great way to practice.  
 - **Ignore the “Exam Practice” folder in Achieve.** Achieve now has a **Practice Mode**: after an assignment is due, you can rework the problems with new numbers as many times as you like. These practice attempts **will not affect your grade**.  
 - Practice Mode is better than the old review folder because the review folder allowed only **one attempt** per problem.
