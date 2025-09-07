@@ -37,7 +37,19 @@ You can find the quizzes and quiz solutions below:
 
 
 ---
+## Exam 1 Information
 
+- **Date & Time:** Monday, September 15, 6:30–7:30 PM, Lessons 1-7 (Up to Integration by Parts)
+- **Location:** WTHR 104  
+
+### Important Notes
+- 
+- There is an **exam memo** in Brightspace under **Exam Information**. Please read it carefully.  
+- **Old exams with solutions** are also available in the same folder — a great way to practice.  
+- **Ignore the “Exam Practice” folder in Achieve.** Achieve now has a **Practice Mode**: after an assignment is due, you can rework the problems with new numbers as many times as you like. These practice attempts **will not affect your grade**.  
+- Practice Mode is better than the old review folder because the review folder allowed only **one attempt** per problem.
+
+___
 ## Syllabus & Course Calendar
 
 - **[Syllabus](https://obiorag.github.io/files/MA16020_Syllabus.pdf)** 
