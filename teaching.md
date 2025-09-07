@@ -40,7 +40,8 @@ You can find the quizzes and quiz solutions below:
 ## Exam 1 Information
 
 - **Date & Time:** Monday, September 15, 6:30–7:30 PM, Lessons 1-7 (Up to Integration by Parts)
-- **Location:** WTHR 104  
+- **Location:** WTHR 104
+- **Exam 1 Memo (https://obiorag.github.io/files/Exam_1_Memo.pdf)**
 
 ### Important Notes
 - There is an **exam memo** in Brightspace under **Exam Information** and linked above. Please read it carefully.  
