@@ -29,6 +29,7 @@ Here you will find lecture notes and slides for each week:
   - ◻ [Lecture 6: Integration- Natural Logarithms](https://obiorag.github.io/files/lec_6.pdf)
   - ◻ [Lecture 7: Integration by Parts I](https://obiorag.github.io/files/lec_7.pdf)
   - ◻ [Lecture 8: Integration by Parts II](https://obiorag.github.io/files/lec_8.pdf)
+  - ◻ [Lecture 8: Integration by Parts II Word Problems](https://obiorag.github.io/files/l8_notes.pdf)
 > **Note:** Materials will be updated regularly as we progress through the course.
 
 ### Quizzes
