@@ -40,7 +40,6 @@ You can find the quizzes and quiz solutions below:
 - **[Quiz 2 (09/10/2025)](https://obiorag.github.io/files/MA_16020___Quiz_2.pdf)**
 - **[Quiz 2 Solutions (09/10/2025)](https://obiorag.github.io/files/MA_16020_Quiz_2_Solutions.pdf)**
 
-
 ---
 ## Exam 1 Information
 
