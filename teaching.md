@@ -43,6 +43,7 @@ You can find the quizzes and quiz solutions below:
 - **[Quiz 1 Solutions](https://obiorag.github.io/files/MA_16020_Quiz_1_Solutions.pdf)**
 - **[Quiz 2 (09/10/2025)](https://obiorag.github.io/files/MA_16020___Quiz_2.pdf)**
 - **[Quiz 2 Solutions (09/10/2025)](https://obiorag.github.io/files/MA_16020_Quiz_2_Solutions.pdf)**
+- **[Quiz 3 Solutions (09/24/2025)](https://obiorag.github.io/files/MA_16020_Quiz_3_Solutions.pdf)** 
 
 ---
 ## Exam 1 Information
