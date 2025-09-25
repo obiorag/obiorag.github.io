@@ -25,12 +25,12 @@ Here you will find lecture notes and slides for each week:
   - ◻ [Lecture 4: Integration by Substitution II](https://obiorag.github.io/files/Lec_4.pdf)
   - ◻ [Lecture 5: Integration by Substitution III: Class Worksheet](https://obiorag.github.io/files/FA25_MA16020_L5_Worksheet.pdf)
   - ◻ [Lecture 5: Integration by Substitution III: Class Worksheet Solutions](https://obiorag.github.io/files/FA25_MA16020_L5_Notes.pdf) 
-- **[Week 3: Integration - Natural Logarithms, Integration by Parts I and II](#)**
+- **[Week 3-4: Integration - Natural Logarithms, Integration by Parts I and II](#)**
   - ◻ [Lecture 6: Integration- Natural Logarithms](https://obiorag.github.io/files/lec_6.pdf)
   - ◻ [Lecture 7: Integration by Parts I](https://obiorag.github.io/files/lec_7.pdf)
   - ◻ [Lecture 8: Integration by Parts II](https://obiorag.github.io/files/lec_8.pdf)
   - ◻ [Lecture 8: Integration by Parts II Word Problems](https://obiorag.github.io/files/l8_notes.pdf)
-- **[Week 4-5: Integration by Partial Fractions I and II, Improper Integrals, Area Between Curves I](#)**
+- **[Week 5-6: Integration by Partial Fractions I and II, Improper Integrals, Area Between Curves I](#)**
   - ◻ [Lecture 9: Integration by Partial Fractions I](https://obiorag.github.io/files/lec_9.pdf)
   - ◻ [Lecture 10: Integration by Partial Fractions II](https://obiorag.github.io/files/lec_10.pdf)
   - ◻ [Lecture 11: Improper Integrals](https://obiorag.github.io/files/lec_11.pdf)
