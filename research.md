@@ -8,8 +8,10 @@ title: ""
 
 ## Papers
 
-1. *Sampling Methods for the Inverse Cavity Scattering Problem of Biharmonic Waves*  
+1. *Sampling methods for the inverse cavity scattering problem of biharmonic waves*  
 (with [I. Harris](https://sites.google.com/site/isaacpurduemath/home) and [P. Li](https://www.cc.ac.cn/en/article/5/66.html?zc=36), Submitted to *Inverse Problems*, 2025)— [[arXiv]](https://arxiv.org/abs/2509.02773)
+2. *Factorization method for the biharmonic scattering problem for an absorbing penetrable obstacle*
+(Under Preparation, Working Title)
 
 
 ---
