@@ -35,8 +35,8 @@ Here you will find lecture notes and slides for each week:
   - ◻ [Lecture 10: Integration by Partial Fractions II](https://obiorag.github.io/files/lec_10.pdf)
   - ◻ [Lecture 11: Improper Integrals](https://obiorag.github.io/files/lec_11.pdf)
   - ◻ [Lecture 12: Area Between Curves: Graphs Worksheet](https://obiorag.github.io/files/ma16020_graphs.pdf)
-  - ◻ [Lecture 12: Area Between Curves I: Notes](https://obiorag.github.io/files/lec_12.pdf)
-  - ◻ [Lecture 12: Area Between Curves I: Notes](https://obiorag.github.io/files/lec_14.pdf)
+  - ◻ [Lecture 12-13: Area Between Curves I,II: Notes](https://obiorag.github.io/files/lec_12.pdf)
+  - ◻ [Lecture 14: Disk Method: Notes](https://obiorag.github.io/files/lec_14.pdf)
 > **Note:** Materials will be updated regularly as we progress through the course.
 
 ### Quizzes
