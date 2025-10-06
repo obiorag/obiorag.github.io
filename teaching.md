@@ -38,6 +38,7 @@ Here you will find lecture notes and slides for each week:
   - ◻ [Lecture 12-13: Area Between Curves I,II: Notes](https://obiorag.github.io/files/lec_12.pdf)
   - ◻ [Lecture 14: Disk Method: Notes](https://obiorag.github.io/files/lec_14.pdf)
   - ◻ [Lecture 15: Washer/Disk Method: Notes](https://obiorag.github.io/files/lec_15.pdf)
+  - ◻ [Lecture 15: Washer/Disk Method: More Notes](https://obiorag.github.io/files/lec0315.pdf) 
 > **Note:** Materials will be updated regularly as we progress through the course.
 
 ### Quizzes
