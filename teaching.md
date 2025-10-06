@@ -36,6 +36,7 @@ Here you will find lecture notes and slides for each week:
   - ◻ [Lecture 11: Improper Integrals](https://obiorag.github.io/files/lec_11.pdf)
   - ◻ [Lecture 12: Area Between Curves: Graphs Worksheet](https://obiorag.github.io/files/ma16020_graphs.pdf)
   - ◻ [Lecture 12: Area Between Curves I: Notes](https://obiorag.github.io/files/lec_12.pdf)
+  - ◻ [Lecture 12: Area Between Curves I: Notes](https://obiorag.github.io/files/lec_14.pdf)
 > **Note:** Materials will be updated regularly as we progress through the course.
 
 ### Quizzes
