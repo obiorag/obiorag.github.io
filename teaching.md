@@ -40,6 +40,7 @@ Here you will find lecture notes and slides for each week:
   - ◻ [Lecture 15: Washer/Disk Method: Notes](https://obiorag.github.io/files/lec_15.pdf)
   - ◻ [Lecture 15: Washer/Disk Method: More Notes](https://obiorag.github.io/files/lec0315.pdf)
   - ◻ [Lecture 16: Washer/Disk Method II](https://obiorag.github.io/files/lec_16.pdf)
+  - ◻ [HWK 14 Problem 9 Solution](https://obiorag.github.io/files/MA_16020_HWK14_9.pdf) 
 > **Note:** Materials will be updated regularly as we progress through the course.
 
 ### Quizzes
