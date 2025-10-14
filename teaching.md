@@ -43,7 +43,8 @@ Here you will find lecture notes and slides for each week:
   - ◻ [HWK 14 Problem 9 Solution](https://obiorag.github.io/files/MA_16020_HWK14_9.pdf)
 - **[Week 9-10: Solids of Revolution: Shell Method, Differential Equations: Separation of Variables](#)**
   - ◻ [Lecture 17-18: Shell Method 1](https://obiorag.github.io/files/MA16020_L17_Slides.pdf)
-  - ◻ [Lecture 17-18: Shell Method 2](https://obiorag.github.io/files/l18_notes.pdf) 
+  - ◻ [Lecture 17-18: Shell Method 2](https://obiorag.github.io/files/l18_notes.pdf)    
+  - ◻ [Lecture 17-18: Shell Method Example Solutions](https://obiorag.github.io/files/l17_example_solutions.pdf) 
 > **Note:** Materials will be updated regularly as we progress through the course.
 
 ### Quizzes
