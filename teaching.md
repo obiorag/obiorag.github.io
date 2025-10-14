@@ -56,7 +56,8 @@ You can find the quizzes and quiz solutions below:
 - **[Quiz 2 Solutions (09/10/2025)](https://obiorag.github.io/files/MA_16020_Quiz_2_Solutions.pdf)**
 - **[Quiz 3 Solutions (09/24/2025)](https://obiorag.github.io/files/MA_16020_Quiz_3_Solutions.pdf)**
 - **[Quiz 4 Solutions (10/01/2025)](https://obiorag.github.io/files/MA_16020_Quiz_4_Solutions.pdf)** 
-- **[Quiz 5 Solutions (10/08/2025)](https://obiorag.github.io/files/MA_16020_Quiz_5_Solutions.pdf)** 
+- [Quiz 5 Solutions (10/08/2025)](https://obiorag.github.io/files/MA_16020_Quiz_5_Solutions.pdf)
+
 ---
 ## Exam 1 Information
 
