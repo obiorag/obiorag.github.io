@@ -25,6 +25,7 @@ title: ""
 ## Talks
 
 <ul class="talk-list">
+  <li><strong><a href="https://obiorag.github.io/files/LSM_pres_slides.pdf">3rd UNCG Virtual PDE Conference</a></strong></li>
   <li><strong><a href="https://obiorag.github.io/files/UCI_PDE_SUMMER_SCHOOL_SLIDES-5.pdf">UCI PDE Summer Conference</a></strong></li>
   <li><strong><a href="https://obiorag.github.io/files/uci_pde_poster__Main_.pdf">UCI PDE Summer Conference Poster</a></strong></li>
   <li><strong><a href="https://obiorag.github.io/files/Grad_Student_Analysis_Seminar__1_hr_.pdf">Purdue Grad Student Analysis Seminar</a></strong></li>
