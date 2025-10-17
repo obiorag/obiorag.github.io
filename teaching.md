@@ -68,6 +68,8 @@ You can find the quizzes and quiz solutions below:
 - [Exam 2 Study Guide: (added Lessons 17-18 (Shell method) as well but disk/washer is enough)](https://obiorag.github.io/files/ma16020_study_guide.pdf)
 - [Partial Fractions Guide](https://obiorag.github.io/files/partial_fractions_guide.pdf)
 - [Disk & Washer Practice Worksheet](https://obiorag.github.io/files/worksheet_disk_washer.pdf)
+
+
 ---
 ### Important Notes
 - There is an **exam memo** in Brightspace under **Exam Information** and linked above. Please read it carefully.  
