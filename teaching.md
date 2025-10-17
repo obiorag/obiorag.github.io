@@ -64,7 +64,8 @@ You can find the quizzes and quiz solutions below:
 
 - **Date & Time:** Monday, October 20, 6:30–7:30 PM, Lessons 8-16 (Integration by Parts/Partial Fractions-Disk/Washer Method)
 - **Location:** WTHR 104
-- **[Exam 2 Memo](https://obiorag.github.io/files/Exam_2_Memo.pdf)** 
+- **[Exam 2 Memo](https://obiorag.github.io/files/Exam_2_Memo.pdf)**
+- [Exam 2 Study Guide: (added Lessons 17-18 (Shell method) as well but disk/washer is enough)](https://obiorag.github.io/files/ma16020_study_guide.pdf)
 ---
 ### Important Notes
 - There is an **exam memo** in Brightspace under **Exam Information** and linked above. Please read it carefully.  
