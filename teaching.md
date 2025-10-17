@@ -59,6 +59,16 @@ You can find the quizzes and quiz solutions below:
 - [Quiz 5 Solutions (10/08/2025)](https://obiorag.github.io/files/MA_16020_Quiz_5_Solutions.pdf)
 
 ---
+
+## Exam 2 Information
+
+- **Date & Time:** Monday, October 20, 6:30–7:30 PM, Lessons 8-16 (Integration by Parts/Partial Fractions-Disk/Washer Method)
+- **Location:** WTHR 104
+- **[Exam 2 Memo]()**
+---
+### Important Notes
+- There is an **exam memo** in Brightspace under **Exam Information** and linked above. Please read it carefully.  
+- **Old exams with solutions** are also available in the same folder — a great way to practice.  
 ## Exam 1 Information
 
 - **Date & Time:** Monday, September 15, 6:30–7:30 PM, Lessons 1-7 (Up to Integration by Parts)
