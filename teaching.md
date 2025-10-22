@@ -44,7 +44,8 @@ Here you will find lecture notes and slides for each week:
 - **[Week 9-10: Solids of Revolution: Shell Method, Differential Equations: Separation of Variables](#)**
   - ◻ [Lecture 17-18: Shell Method 1](https://obiorag.github.io/files/MA16020_L17_Slides.pdf)
   - ◻ [Lecture 17-18: Shell Method 2](https://obiorag.github.io/files/l18_notes.pdf)    
-  - ◻ [Lecture 17-18: Shell Method Example Solutions](https://obiorag.github.io/files/l17_example_solutions.pdf) 
+  - ◻ [Lecture 17-18: Shell Method Example Solutions](https://obiorag.github.io/files/l17_example_solutions.pdf)
+  - ◻ [Lecture 19: Separable Differential Equations](https://obiorag.github.io/files/MA_16020_Applied_Calculus_II_Lecture_19.pdf)
 > **Note:** Materials will be updated regularly as we progress through the course.
 
 ### Quizzes
