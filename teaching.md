@@ -41,12 +41,14 @@ Here you will find lecture notes and slides for each week:
   - ◻ [Lecture 15: Washer/Disk Method: More Notes](https://obiorag.github.io/files/lec0315.pdf)
   - ◻ [Lecture 16: Washer/Disk Method II](https://obiorag.github.io/files/lec_16.pdf)
   - ◻ [HWK 14 Problem 9 Solution](https://obiorag.github.io/files/MA_16020_HWK14_9.pdf)
-- **[Week 9-10: Solids of Revolution: Shell Method, Differential Equations: Separation of Variables](#)**
+- **[Week 9-11: Solids of Revolution: Shell Method, Separable Diff Equations, Linear Diff Equations](#)**
   - ◻ [Lecture 17-18: Shell Method 1](https://obiorag.github.io/files/MA16020_L17_Slides.pdf)
   - ◻ [Lecture 17-18: Shell Method 2](https://obiorag.github.io/files/l18_notes.pdf)    
   - ◻ [Lecture 17-18: Shell Method Example Solutions](https://obiorag.github.io/files/l17_example_solutions.pdf)
   - ◻ [Lecture 19: Separable Differential Equations](https://obiorag.github.io/files/MA_16020_Applied_Calculus_II_Lecture_19.pdf)
   - ◻ [Lecture 20: Separable Differential Equations II](https://obiorag.github.io/files/lec_20.pdf)
+  - ◻ [Lecture 21: Linear Differential Equations I](https://obiorag.github.io/files/lec_21.pdf)
+  - ◻ [Lecture 22: Linear Differential Equations II: Integrating Factors](https://obiorag.github.io/files/lec_22.pdf)
 > **Note:** Materials will be updated regularly as we progress through the course.
 
 ### Quizzes
