@@ -49,6 +49,8 @@ Here you will find lecture notes and slides for each week:
   - ◻ [Lecture 20: Separable Differential Equations II](https://obiorag.github.io/files/lec_20.pdf)
   - ◻ [Lecture 21: Linear Differential Equations I](https://obiorag.github.io/files/lec_21.pdf)
   - ◻ [Lecture 22: Linear Differential Equations II: Integrating Factors](https://obiorag.github.io/files/lec_22.pdf)
+- **[Week 11-12: SERIES: Geometric Series & Power Series, Maclaurin Series](#)**
+  - ◻ [Lecture 23: Series: Geometric Series I](https://obiorag.github.io/files/lec_23.pdf)
 > **Note:** Materials will be updated regularly as we progress through the course.
 
 ### Quizzes
