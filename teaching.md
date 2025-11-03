@@ -51,6 +51,7 @@ Here you will find lecture notes and slides for each week:
   - ◻ [Lecture 22: Linear Differential Equations II: Integrating Factors](https://obiorag.github.io/files/lec_22.pdf)
 - **[Week 11-12: SERIES: Geometric Series & Power Series, Maclaurin Series](#)**
   - ◻ [Lecture 23: Series: Geometric Series I](https://obiorag.github.io/files/lec_23.pdf)
+  - ◻ [Lecture 24: Series: Geometric Series II, Power Series](https://obiorag.github.io/files/lec_24.pdf)
   - ◻ [Lecture 25: Series: Power Series & Maclaurin Series](https://obiorag.github.io/files/lec_25.pdf)
 > **Note:** Materials will be updated regularly as we progress through the course.
 
