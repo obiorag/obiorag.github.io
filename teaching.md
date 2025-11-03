@@ -55,6 +55,8 @@ Here you will find lecture notes and slides for each week:
   - ◻ [Lecture 25: Series: Power Series & Maclaurin Series](https://obiorag.github.io/files/lec_25.pdf)
 > **Note:** Materials will be updated regularly as we progress through the course.
 
+### Helpful Guides
+◻ [Maclaurin Series Table](https://obiorag.github.io/files/maclaurin_expansion_table.pdf)
 ### Quizzes
 You can find the quizzes and quiz solutions below:
 
