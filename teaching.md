@@ -73,6 +73,10 @@ You can find the quizzes and quiz solutions below:
 
 ---
 
+## Exam 3 Information
+
+- [Exam 3 Study Guide](https://obiorag.github.io/files/exam_3_study_guide.pdf)
+
 ## Exam 2 Information
 
 - **Date & Time:** Monday, October 20, 6:30–7:30 PM, Lessons 8-16 (Integration by Parts/Partial Fractions-Disk/Washer Method)
