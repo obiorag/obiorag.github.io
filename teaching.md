@@ -53,6 +53,8 @@ Here you will find lecture notes and slides for each week:
   - ◻ [Lecture 23: Series: Geometric Series I](https://obiorag.github.io/files/lec_23.pdf)
   - ◻ [Lecture 24: Series: Geometric Series II, Power Series](https://obiorag.github.io/files/lec_24.pdf)
   - ◻ [Lecture 25: Series: Power Series & Maclaurin Series](https://obiorag.github.io/files/lec_25.pdf)
+- **[Week 12-13: Calculus of Two Variable Functions](#)**
+  - ◻ [Lecture 26-27: Functions of Several Variable & Partial Derivatives](https://obiorag.github.io/files/lec_26_27.pdf) 
 > **Note:** Materials will be updated regularly as we progress through the course.
 
 ### Helpful Guides
