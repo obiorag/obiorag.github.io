@@ -18,7 +18,7 @@ title: ""
 
 ## Notes & Expository Work
 
-- *[Direct Imaging Methods for Inverse Obstacle Scattering](https://obiorag.github.io/files/Direct_Imaging_Methods-2.pdf)*
+- *[Direct Imaging Methods for Inverse Obstacle Scattering](https://obiorag.github.io/files/Direct_Imaging_Methods-2.pdf)-[[arXiv]](https://arxiv.org/abs/2311.16962)*
 
 ---
 
