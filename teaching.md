@@ -84,7 +84,8 @@ You can find the quizzes and quiz solutions below:
   but included for completion. 
 - [Exam 3 Study Guide](https://obiorag.github.io/files/exam_3_study_guide.pdf): 
 - [Exam 3 Memo](https://obiorag.github.io/files/Exam_3_Memo.pdf)
-
+- [Shells Practice](https://obiorag.github.io/files/shells_practice)
+- [Shells Solutions](https://obiorag.github.io/files/shells_solutions)
 ## Exam 2 Information
 
 - **Date & Time:** Monday, October 20, 6:30–7:30 PM, Lessons 8-16 (Integration by Parts/Partial Fractions-Disk/Washer Method)
