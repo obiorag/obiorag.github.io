@@ -57,6 +57,7 @@ Here you will find lecture notes and slides for each week:
   - ◻ [Lecture 26-27: Functions of Several Variable & Partial Derivatives](https://obiorag.github.io/files/lec_26_27.pdf)
   - ◻ [Lecture 28: Higher Order Partial Derivatives](https://obiorag.github.io/files/lec_28.pdf)
   - ◻ [Lecture 29: Extrema of Functions of Two Variables](https://obiorag.github.io/files/l29.pdf)
+  - ◻ [Lecture 30: Extrema of Functions of Two Variables II](https://obiorag.github.io/files/FA22_MA16020_L30_Worksheet.pdf)
 > **Note:** Materials will be updated regularly as we progress through the course.
 
 ### Helpful Guides
