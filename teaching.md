@@ -74,6 +74,7 @@ You can find the quizzes and quiz solutions below:
 - [Quiz 5 Solutions (10/08/2025)](https://obiorag.github.io/files/MA_16020_Quiz_5_Solutions.pdf)
 - [Quiz 6 Solutions (10/29/2025)](https://obiorag.github.io/files/MA_16020_Quiz_6_Solutions.pdf)
 - [Quiz 7 Solutions (11/5/2025)](https://obiorag.github.io/files/quiz_7_solutions.pdf)
+- [Quiz 8 Solutions (11/14/2025)](https://obiorag.github.io/files/quiz_8_solutions.pdf)
 
 ---
 
