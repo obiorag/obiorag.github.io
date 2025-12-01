@@ -58,6 +58,8 @@ Here you will find lecture notes and slides for each week:
   - ◻ [Lecture 28: Higher Order Partial Derivatives](https://obiorag.github.io/files/lec_28.pdf)
   - ◻ [Lecture 29: Extrema of Functions of Two Variables](https://obiorag.github.io/files/l29.pdf)
   - ◻ [Lecture 30: Extrema of Functions of Two Variables II](https://obiorag.github.io/files/FA22_MA16020_L30_Worksheet.pdf)
+  - ◻ [Lecture 32: Lagrange Multipliers Worksheet](https://obiorag.github.io/files/l32.pdf)
+  - ◻ [Lecture 32: Lagrange Multipliers Worksheet Solutions](https://obiorag.github.io/files/l32_notes.pdf)
   - ◻ [Lecture 33: Double Integrals I](https://obiorag.github.io/files/l33.pdf)  
 > **Note:** Materials will be updated regularly as we progress through the course.
 
