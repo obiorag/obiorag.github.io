@@ -60,7 +60,8 @@ Here you will find lecture notes and slides for each week:
   - ◻ [Lecture 30: Extrema of Functions of Two Variables II](https://obiorag.github.io/files/FA22_MA16020_L30_Worksheet.pdf)
   - ◻ [Lecture 32: Lagrange Multipliers Worksheet](https://obiorag.github.io/files/l32.pdf)
   - ◻ [Lecture 32: Lagrange Multipliers Worksheet Solutions](https://obiorag.github.io/files/l32_notes.pdf)
-  - ◻ [Lecture 33: Double Integrals I](https://obiorag.github.io/files/l33.pdf)  
+  - ◻ [Lecture 33: Double Integrals I](https://obiorag.github.io/files/l33.pdf)
+  - ◻ [Lecture 33: Double Integrals I: Additional Examples](https://obiorag.github.io/files/l33_additional_notes.pdf)
 > **Note:** Materials will be updated regularly as we progress through the course.
 
 ### Helpful Guides
