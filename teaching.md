@@ -82,6 +82,9 @@ You can find the quizzes and quiz solutions below:
 
 ---
 
+## Final Exam Information
+- [Final Exam Memo](https://obiorag.github.io/files/Final_Exam_Memo.pdf)
+
 ## Exam 3 Information
 - **Date & Time:** Monday, November 17, 6:30–7:30 PM, Lessons 17-25 (Shell Method-Maclaurin Series)
 - **Location:** WTHR 104
