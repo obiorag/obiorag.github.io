@@ -94,8 +94,8 @@ You can find the quizzes and quiz solutions below:
 - [Exam 3 Memo](https://obiorag.github.io/files/Exam_3_Memo.pdf)
 - [Shells Practice](https://obiorag.github.io/files/shells_practice.pdf)
 - [Shells Solutions](https://obiorag.github.io/files/shells_solutions.pdf)
-## Exam 2 Information
 
+## Exam 2 Information
 - **Date & Time:** Monday, October 20, 6:30–7:30 PM, Lessons 8-16 (Integration by Parts/Partial Fractions-Disk/Washer Method)
 - **Location:** WTHR 104
 - **[Exam 2 Memo](https://obiorag.github.io/files/Exam_2_Memo.pdf)**
@@ -107,9 +107,9 @@ You can find the quizzes and quiz solutions below:
 ---
 ### Important Notes
 - There is an **exam memo** in Brightspace under **Exam Information** and linked above. Please read it carefully.  
-- **Old exams with solutions** are also available in the same folder — a great way to practice.  
+- **Old exams with solutions** are also available in the same folder — a great way to practice.
+  
 ## Exam 1 Information
-
 - **Date & Time:** Monday, September 15, 6:30–7:30 PM, Lessons 1-7 (Up to Integration by Parts)
 - **Location:** WTHR 104
 - **[Exam 1 Memo](https://obiorag.github.io/files/Exam_1_Memo.pdf)**
