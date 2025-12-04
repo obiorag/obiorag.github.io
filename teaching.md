@@ -63,6 +63,7 @@ Here you will find lecture notes and slides for each week:
   - ◻ [Lecture 33: Double Integrals I](https://obiorag.github.io/files/l33.pdf)
   - ◻ [Lecture 33: Double Integrals I: Additional Examples](https://obiorag.github.io/files/l33_additional_notes.pdf) 
   - ◻ [Lecture 34: Double Integrals II](https://obiorag.github.io/files/l34.pdf)
+  - ◻ [Lecture 35: Double Integrals III](https://obiorag.github.io/files/l35_notes.pdf)
 > **Note:** Materials will be updated regularly as we progress through the course.
 
 ### Helpful Guides
