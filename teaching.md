@@ -87,7 +87,8 @@ You can find the quizzes and quiz solutions below:
 ---
 
 ## Final Exam Information
-- [Final Exam Memo](https://obiorag.github.io/files/Final_Exam_Memo.pdf) 
+- [Final Exam Memo](https://obiorag.github.io/files/Final_Exam_Memo.pdf)
+- [Final Exam Study Guide-Practice Problems](https://obiorag.github.io/files/ma16020_final_guide.pdf)
 
 ## Exam 3 Information
 - **Date & Time:** Monday, November 17, 6:30–7:30 PM, Lessons 17-25 (Shell Method-Maclaurin Series)
