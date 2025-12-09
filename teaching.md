@@ -88,7 +88,8 @@ You can find the quizzes and quiz solutions below:
 
 ## Final Exam Information
 - [Final Exam Memo](https://obiorag.github.io/files/Final_Exam_Memo.pdf)
-- [Final Exam Study Guide-Some Practice Problems](https://obiorag.github.io/files/ma16020_final_guide.pdf) (ignore 12, 26, & 33)
+- [Final Exam Study Guide-Some Practice Problems](https://obiorag.github.io/files/ma16020_final_guide.pdf) (ignore 12, 13 26, & 33)
+- [Study Guide Selected Solutions](https://obiorag.github.io/files/MA_16020_Study_Guide_Solutions.pdf) (did the most important ones)
 - [Final Exam Formula Sheet](https://obiorag.github.io/files/FormulaSheet_Final_MA16020.pdf)
 
 ## Exam 3 Information
