@@ -11,7 +11,7 @@ title: ""
 1. *Factorization method for the biharmonic scattering problem for an absorbing penetrable obstacle*
 (with [R. Ayala](https://rafaelcejaayala.com/) and [I. Harris](https://sites.google.com/site/isaacpurduemath/home), Submitted, 2025)— [[arXiv]](https://arxiv.org/abs/2511.05711)
 2. *Sampling Methods for the Inverse Cavity Scattering Problem of Biharmonic Waves*  
-   *with* [I. Harris](https://sites.google.com/site/isaacpurduemath/home) *and* [P. Li](https://www.cc.ac.cn/en/article/5/66.html?zc=36)  
+   (*with* [I. Harris](https://sites.google.com/site/isaacpurduemath/home) *and* [P. Li](https://www.cc.ac.cn/en/article/5/66.html?zc=36)) 
    *To appear in* **Inverse Problems** (2025)  
    **DOI:** https://doi.org/10.1088/1361-6420/ae2ef8  
    [[arXiv]](https://arxiv.org/abs/2509.02773)
