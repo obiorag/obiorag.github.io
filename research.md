@@ -12,7 +12,7 @@ title: ""
 *Preprint* (Submitted, 2025)
 
 2. [*Sampling methods for the inverse cavity scattering problem of biharmonic waves*](https://doi.org/10.1088/1361-6420/ae2ef8) (*with* [I. Harris](https://sites.google.com/site/isaacpurduemath/home) *and* [P. Li](https://www.cc.ac.cn/en/article/5/66.html?zc=36))  
-*Inverse Probl.* **42** (2026) 015002 
+*Inverse Probl.* **42** (2026) 015002 -[[PDF]](https://obiorag.github.io/files/paper_no_1.pdf)
 
 
 
