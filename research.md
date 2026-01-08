@@ -26,18 +26,17 @@ title: ""
 
 ## Presentations
 
-<ul class="talk-list">
-  <li><strong><a href="https://obiorag.github.io/files/FM_Presentation.pdf">SIAM PD25 Conference Talk 2</a></strong></li>
-  <li><strong><a href="https://obiorag.github.io/files/ESM_Pres.pdf">SIAM PD25 Conference Talk 1</a></strong></li>
-  <li><strong><a href="https://obiorag.github.io/files/FM_Present.pdf">Graduate Research Day</a></strong></li>
-  <li><strong><a href="https://obiorag.github.io/files/LSM_pres_slides.pdf">3rd UNCG Virtual PDE Conference</a></strong></li>
-  <li><strong><a href="https://obiorag.github.io/files/UCI_PDE_SUMMER_SCHOOL_SLIDES-5.pdf">UCI PDE Summer School</a></strong></li>
-  <li><strong><a href="https://obiorag.github.io/files/uci_pde_poster__Main_.pdf">UCI PDE Summer School Poster</a></strong></li>
-  <li><strong><a href="https://obiorag.github.io/files/Grad_Student_Analysis_Seminar__1_hr_.pdf">Purdue Grad Student Analysis Seminar</a></strong></li>
-  <li><strong><a href="https://obiorag.github.io/files/ccam_lunch_slides-1.pdf">CCAM Lunch Seminar</a></strong></li>
-  <li><strong><a href="https://obiorag.github.io/files/LSM_Slides.pdf">Purdue Graduate Research Day</a></strong></li>
-  <li><strong><a href="https://obiorag.github.io/files/advanced_topics.pdf">Advanced Topics Presentation</a></strong></li>
-</ul>
+- **[SIAM PD25 Conference Talk 2](https://obiorag.github.io/files/FM_Presentation.pdf)** ![PDF](https://img.shields.io/badge/PDF-%20-blue)
+- **[SIAM PD25 Conference Talk 1](https://obiorag.github.io/files/ESM_Pres.pdf)** ![PDF](https://img.shields.io/badge/PDF-%20-blue)
+- **[Graduate Research Day](https://obiorag.github.io/files/FM_Present.pdf)** ![PDF](https://img.shields.io/badge/PDF-%20-blue)
+- **[3rd UNCG Virtual PDE Conference](https://obiorag.github.io/files/LSM_pres_slides.pdf)** ![PDF](https://img.shields.io/badge/PDF-%20-blue)
+- **[UCI PDE Summer School](https://obiorag.github.io/files/UCI_PDE_SUMMER_SCHOOL_SLIDES-5.pdf)** ![PDF](https://img.shields.io/badge/PDF-%20-blue)
+- **[UCI PDE Summer School Poster](https://obiorag.github.io/files/uci_pde_poster__Main_.pdf)** ![PDF](https://img.shields.io/badge/PDF-%20-blue)
+- **[Purdue Grad Student Analysis Seminar](https://obiorag.github.io/files/Grad_Student_Analysis_Seminar__1_hr_.pdf)** ![PDF](https://img.shields.io/badge/PDF-%20-blue)
+- **[CCAM Lunch Seminar](https://obiorag.github.io/files/ccam_lunch_slides-1.pdf)** ![PDF](https://img.shields.io/badge/PDF-%20-blue)
+- **[Purdue Graduate Research Day](https://obiorag.github.io/files/LSM_Slides.pdf)** ![PDF](https://img.shields.io/badge/PDF-%20-blue)
+- **[Advanced Topics Presentation](https://obiorag.github.io/files/advanced_topics.pdf)** ![PDF](https://img.shields.io/badge/PDF-%20-blue)
+
 
 
 
