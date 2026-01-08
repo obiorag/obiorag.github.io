@@ -92,7 +92,7 @@ classes: wide
 
   <div class="teaching-course">
     <strong>AMC / AIME Mathematics Mentoring</strong>
-    <span class="term">Spring–Fall 2020</span>
+    <span class="term">Fall 2020</span>
   </div>
 </div>
 
