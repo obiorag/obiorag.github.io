@@ -86,15 +86,17 @@ classes: wide
   <strong>Mentoring & Academic Service</strong>
 
   <div class="teaching-course">
-    <strong>Purdue Math Directed Reading Program</strong> — Project: Computational Topology
+    <span class="course-name"><strong>Purdue Math Directed Reading</strong></span>
     <span class="term">Spring 2025</span>
+    <div class="project-title">Project: Computational Topology</div>
   </div>
 
   <div class="teaching-course">
-    <strong>AMC / AIME Mathematics Mentoring</strong>
-    <span class="term">Fall 2020</span>
+    <span class="course-name"><strong>AMC / AIME Mentoring</strong></span>
+    <span class="term">Spring–Fall 2020</span>
   </div>
 </div>
+
 
 <style>
 /* -------------------- Employment / Research -------------------- */
