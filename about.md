@@ -9,39 +9,68 @@ classes: wide
 <style>
 .about-grid {
   display: grid;
-  grid-template-columns: 1fr;
-  gap: 1.2rem;
+  gap: 1.5rem;
   max-width: 900px;
+  margin: auto;
 }
 
 .degree {
-  border-left: 4px solid #555;
-  padding-left: 1rem;
+  position: relative;
+  padding: 1.2rem 1.5rem;
+  border-radius: 12px;
+  background: linear-gradient(
+    135deg,
+    rgba(255,255,255,0.65),
+    rgba(245,245,245,0.85)
+  );
+  box-shadow: 0 10px 25px rgba(0,0,0,0.08);
+  backdrop-filter: blur(6px);
+  transition: transform 0.25s ease, box-shadow 0.25s ease;
+}
+
+.degree::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 12%;
+  height: 76%;
+  width: 4px;
+  background: linear-gradient(to bottom, #444, #aaa);
+  border-radius: 2px;
+}
+
+.degree:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 18px 40px rgba(0,0,0,0.12);
 }
 
 .degree h3 {
-  margin: 0;
+  margin: 0 0 0.3rem 0;
   font-weight: 600;
-  letter-spacing: 0.02em;
+  letter-spacing: 0.03em;
 }
 
 .meta {
-  font-size: 0.9rem;
-  opacity: 0.75;
+  font-size: 0.85rem;
+  opacity: 0.7;
 }
 
 .keywords {
-  font-size: 0.95rem;
+  margin-top: 0.3rem;
+  font-size: 0.9rem;
   font-style: italic;
+  opacity: 0.85;
 }
 
 .interests {
-  margin-top: 2rem;
-  font-size: 0.95rem;
-  opacity: 0.85;
-  letter-spacing: 0.04em;
+  margin-top: 2.5rem;
+  text-align: center;
+  font-size: 0.9rem;
+  letter-spacing: 0.15em;
+  opacity: 0.7;
 }
 </style>
+
 
 <div class="about-grid">
 
