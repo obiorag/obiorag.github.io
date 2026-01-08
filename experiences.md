@@ -9,12 +9,12 @@ classes: wide
 # Experiences
 <hr style="margin: 1em 0 2em 0; border: none; border-top: 2px solid #ddd; width: 60%;">
 
-## 💼 Employment
+## 💼 Employment & Research
 {: style="font-size:1.1em; font-weight:600; color:#444;"}
 
 <div class="cv-entry experience-block">
   <strong>Purdue University</strong> — Graduate Research Assistant
-  <span class="cv-date">Aug 2023 – Aug 2024, May 2025-Aug 2025, Jan 2025-Present</span>
+  <span class="cv-date">Aug 2023 – Aug 2024, Jan 2025 – Present, May 2025 – Aug 2025</span>
 </div>
 
 <div class="cv-entry experience-block">
@@ -30,6 +30,16 @@ classes: wide
 <div class="cv-entry experience-block">
   <strong>NJIT</strong> — Research Assistant & Graduate Researcher
   <span class="cv-date">July 2020 – May 2021</span>
+</div>
+
+<div class="cv-entry experience-block">
+  <strong>Accel Learning</strong> — Mathematics Instructor
+  <span class="cv-date">Sep 2020 – Dec 2020</span>
+</div>
+
+<div class="cv-entry experience-block">
+  <strong>Mathnasium</strong> — Mathematics Instructor & Tutor
+  <span class="cv-date">Sep 2018 – Jan 2019</span>
 </div>
 
 ---
@@ -72,16 +82,6 @@ classes: wide
   </div>
 </div>
 
-<div class="cv-entry experience-block">
-  <strong>Accel Learning</strong> — Mathematics Instructor
-  <span class="cv-date">Sep 2020 – Dec 2020</span>
-</div>
-
-<div class="cv-entry experience-block">
-  <strong>Mathnasium</strong> — Mathematics Instructor & Tutor
-  <span class="cv-date">Sep 2018 – Jan 2019</span>
-</div>
-
 <div class="cv-entry teaching-block">
   <strong>Mentoring & Academic Service</strong>
 
@@ -93,7 +93,10 @@ classes: wide
   <div class="teaching-course">
     <strong>AMC / AIME Mathematics Mentoring</strong>
     <span class="term">Spring–Fall 2020</span>
+  </div>
+</div>
 
+<style>
 /* Employment / Research Experience */
 .experience-block {
   margin-bottom: 1.5em;
@@ -141,6 +144,4 @@ classes: wide
   color: #666;
   font-size: 0.9em;
 }
-
-  </div>
-</div>
+</style>
