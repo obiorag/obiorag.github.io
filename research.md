@@ -8,11 +8,11 @@ title: ""
 
 ## Papers
 
-1. [*Factorization method for the biharmonic scattering problem for an absorbing penetrable obstacle*](https://arxiv.org/abs/2511.05711) (*with* [R. Ayala](https://rafaelcejaayala.com/) *and* [I. Harris](https://sites.google.com/site/isaacpurduemath/home))  
-*Preprint* (Submitted, 2025)
+1. **[R. Ceja Ayala](https://rafaelcejaayala.com/), [I. Harris](https://sites.google.com/site/isaacpurduemath/home), and G. Ozochiawaeze**, “Factorization method for the biharmonic scattering problem for an absorbing penetrable scatterer,” *Submitted* (arXiv: [2511.05711](https://arxiv.org/abs/2511.05711)).
 
-2. [*Sampling methods for the inverse cavity scattering problem of biharmonic waves*](https://doi.org/10.1088/1361-6420/ae2ef8) (*with* [I. Harris](https://sites.google.com/site/isaacpurduemath/home) *and* [P. Li](https://www.cc.ac.cn/en/article/5/66.html?zc=36))  
-*Inverse Probl.* **42** (2026) 015002 -[[PDF]](https://obiorag.github.io/files/paper_no_1.pdf)
+
+2. **[I. Harris](https://sites.google.com/site/isaacpurduemath/home), [P. Li](https://www.cc.ac.cn/en/article/5/66.html?zc=36), and G. Ozochiawaeze**, “Sampling methods for the inverse cavity scattering problem of biharmonic waves,” *Inverse Problems* **42** (2026) 015002 ([DOI](https://doi.org/10.1088/1361-6420/ae2ef8), [PDF](https://obiorag.github.io/files/paper_no_1.pdf)).
+
 
 
 
@@ -24,7 +24,7 @@ title: ""
 
 ---
 
-## Talks
+## Presentations
 
 <ul class="talk-list">
   <li><strong><a href="https://obiorag.github.io/files/FM_Presentation.pdf">SIAM PD25 Conference Talk 2</a></strong></li>
