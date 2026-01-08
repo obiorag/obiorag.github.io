@@ -42,12 +42,12 @@ classes: wide
   <span class="cv-date">Sep 2018 – Jan 2019</span>
 </div>
 
----
+<hr style="margin: 2em 0; border: none; border-top: 1px solid #ddd;">
 
 ## 🎓 Teaching & Mentoring
 {: style="font-size:1.1em; font-weight:600; color:#444;"}
 
-<div class="cv-entry teaching-block">
+<div class="cv-entry teaching-block instructor">
   <strong>Instructor, Purdue University</strong>
   <span class="cv-date">Fall 2025</span>
 
@@ -57,7 +57,7 @@ classes: wide
   </div>
 </div>
 
-<div class="cv-entry teaching-block">
+<div class="cv-entry teaching-block ta">
   <strong>Teaching Assistant, Purdue University</strong>
   <span class="cv-date">2021 – 2023</span>
 
@@ -82,7 +82,7 @@ classes: wide
   </div>
 </div>
 
-<div class="cv-entry teaching-block">
+<div class="cv-entry teaching-block mentoring">
   <strong>Mentoring & Academic Service</strong>
 
   <div class="teaching-course">
@@ -97,9 +97,9 @@ classes: wide
 </div>
 
 <style>
-/* Employment / Research Experience */
+/* -------------------- Employment / Research -------------------- */
 .experience-block {
-  margin-bottom: 1.5em;
+  margin-bottom: 1.8em;
   padding-left: 1em;
   position: relative;
 }
@@ -124,14 +124,32 @@ classes: wide
   font-size: 0.9em;
 }
 
-/* Teaching / Mentoring */
+/* -------------------- Teaching & Mentoring -------------------- */
 .teaching-block {
-  margin-bottom: 2em;
+  margin-bottom: 2.5em;
+  padding-left: 0.8em;
+}
+
+.teaching-block.instructor {
+  background-color: #f9f9f9;
+  border-left: 3px solid #007acc;
+  padding: 0.8em 1em;
+  border-radius: 4px;
+}
+
+.teaching-block.ta {
+  margin-left: 1em;
+}
+
+.teaching-block.mentoring {
+  margin-left: 2em;
+  font-style: italic;
+  color: #444;
 }
 
 .teaching-course {
   margin-left: 1em;
-  margin-top: 0.4em;
+  margin-top: 0.3em;
   color: #444;
 }
 
