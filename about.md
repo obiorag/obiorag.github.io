@@ -6,30 +6,69 @@ author_profile: true
 classes: wide
 ---
 
-# Academic Journey
----
+<style>
+.about-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1.2rem;
+  max-width: 900px;
+}
 
-### Ph.D. in Mathematics, Purdue University (2021–Present)
-- Advisors: **Dr. Peijun Li** and **Dr. Isaac Harris**  
-- Research focus: **Partial differential equations**, **inverse scattering problems**, and **wave propagation**  
-- Founder and Organizer of the **Math History Seminar**, connecting historical perspectives with modern mathematics
+.degree {
+  border-left: 4px solid #555;
+  padding-left: 1rem;
+}
 
-### M.S. in Applied Mathematics, New Jersey Institute of Technology
-- Advisor: **Dr. Christina Frederick**  
-- Thesis: Forward and inverse scattering in **underwater acoustics**  
-- Key projects: Modeling wave propagation in underwater acoustic environments via finite element methods and domain decomposition
+.degree h3 {
+  margin: 0;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+}
 
-### B.A. in Mathematics, Minor: Philosophy, Rutgers University
-- Concentrations: **Mathematics** and **Philosophy**  
-- Interests: Modern philosophy, logic, and continental philosophy  
-- Activities: Campus seminars, philosophical writing, and student-led discussions
+.meta {
+  font-size: 0.9rem;
+  opacity: 0.75;
+}
 
----
+.keywords {
+  font-size: 0.95rem;
+  font-style: italic;
+}
 
-# Interests Beyond Mathematics
-- **Creative writing, poetry, and declamation**  
-- **Recreational jogging and fitness**  
-- **History and philosophy**, with a focus on connecting cultural ideas to scientific thought
+.interests {
+  margin-top: 2rem;
+  font-size: 0.95rem;
+  opacity: 0.85;
+  letter-spacing: 0.04em;
+}
+</style>
+
+<div class="about-grid">
+
+<div class="degree">
+<h3>Ph.D. Mathematics — Purdue</h3>
+<div class="meta">Peijun Li · Isaac Harris · 2021–Present</div>
+<div class="keywords">PDEs · Inverse Scattering · Wave Propagation</div>
+<div class="meta">Founder, Math History Seminar</div>
+</div>
+
+<div class="degree">
+<h3>M.S. Applied Mathematics — NJIT</h3>
+<div class="meta">Christina Frederick</div>
+<div class="keywords">Underwater Acoustics · FEM · Domain Decomposition</div>
+</div>
+
+<div class="degree">
+<h3>B.A. Mathematics, Minor in Philosophy — Rutgers</h3>
+<div class="keywords">Logic · Modern & Continental Philosophy</div>
+</div>
+
+</div>
+
+<div class="interests">
+Writing · Poetry · Jogging · History & Philosophy of Science
+</div>
+
 
 
 
