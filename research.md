@@ -42,6 +42,8 @@ title: ""
 - Purdue CCAM Lunch Seminar, February 2025
   
 - Purdue Graduate Research Day, November 2024
+  
+- Purdue Student SIAM Chapter Conference, April 2024
 
 
 
