@@ -27,6 +27,10 @@ title: ""
 ## Invited Talks
 
 - **"A Factorization Method Approach to the Biharmonic Transmission Problem in Absorbing Media"**  
+  WAVES Conference, Concordia University, Montreal, Canada, June 2026  
+  Minisymposium: *Inverse Problems in Wave Scattering: Theory and Computation*
+  
+- **"A Factorization Method Approach to the Biharmonic Transmission Problem in Absorbing Media"**  
   Baby Inverse Problems (BIP) Seminar, February 2026
 
 - **"A Factorization Method Approach to the Biharmonic Transmission Problem in Absorbing Media"**  
