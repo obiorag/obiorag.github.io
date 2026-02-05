@@ -26,17 +26,15 @@ title: ""
 
 ## Invited Talks
 
-- **"A Factorization Method Approach to the Biharmonic Transmission Problem in Absorbing Media"**  
-  WAVES Conference, Concordia University, Montreal, Canada, June 2026  
-  Minisymposium: *Inverse Problems in Wave Scattering: Theory and Computation*
-  
-- **"A Factorization Method Approach to the Biharmonic Transmission Problem in Absorbing Media"**  
-  Baby Inverse Problems (BIP) Seminar, February 2026
+- WAVES Conference, Concordia University, Montreal, Canada, June 2026  
+  Minisymposium – *Inverse Problems in Wave Scattering: Theory and Computation*
 
-- **"A Factorization Method Approach to the Biharmonic Transmission Problem in Absorbing Media"**  
-  SIAM PDE Conference, Pittsburgh Sheraton Hotel, November 2025  
-  Minisymposium: MS47 – *Inverse Problems for PDEs: Inverse Scattering and Non-scattering*  
+- Baby Inverse Problems (BIP) Seminar, February 2026
+
+- SIAM PDE Conference, Pittsburgh Sheraton Hotel, November 2025  
+  Minisymposium MS47 – *Inverse Problems for PDEs: Inverse Scattering and Non-scattering*  
   [Slides](https://obiorag.github.io/files/FM_Presentation.pdf) ![PDF](https://img.shields.io/badge/PDF-%20-blue)
+
 
 
 
