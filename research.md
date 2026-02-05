@@ -35,6 +35,14 @@ title: ""
   Minisymposium MS47 – *Inverse Problems for PDEs: Inverse Scattering and Non-scattering*  
   [Slides](https://obiorag.github.io/files/FM_Presentation.pdf) ![PDF](https://img.shields.io/badge/PDF-%20-blue)
 
+- Purdue Graduate Research Day, November 2025
+  
+- Purdue CCAM Lunch Seminar, November 2025
+
+- Purdue CCAM Lunch Seminar, February 2025
+  
+- Purdue Graduate Research Day, November 2024
+
 
 
 
