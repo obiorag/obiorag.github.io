@@ -24,18 +24,16 @@ title: ""
 
 ---
 
-## Presentations
+## Invited Talks
 
-- **[SIAM PD25 Conference Talk 2](https://obiorag.github.io/files/FM_Presentation.pdf)** ![PDF](https://img.shields.io/badge/PDF-%20-blue)
-- **[SIAM PD25 Conference Talk 1](https://obiorag.github.io/files/ESM_Pres.pdf)** ![PDF](https://img.shields.io/badge/PDF-%20-blue)
-- **[Graduate Research Day](https://obiorag.github.io/files/FM_Present.pdf)** ![PDF](https://img.shields.io/badge/PDF-%20-blue)
-- **[3rd UNCG Virtual PDE Conference](https://obiorag.github.io/files/LSM_pres_slides.pdf)** ![PDF](https://img.shields.io/badge/PDF-%20-blue)
-- **[UCI PDE Summer School](https://obiorag.github.io/files/UCI_PDE_SUMMER_SCHOOL_SLIDES-5.pdf)** ![PDF](https://img.shields.io/badge/PDF-%20-blue)
-- **[UCI PDE Summer School Poster](https://obiorag.github.io/files/uci_pde_poster__Main_.pdf)** ![PDF](https://img.shields.io/badge/PDF-%20-blue)
-- **[Purdue Grad Student Analysis Seminar](https://obiorag.github.io/files/Grad_Student_Analysis_Seminar__1_hr_.pdf)** ![PDF](https://img.shields.io/badge/PDF-%20-blue)
-- **[CCAM Lunch Seminar](https://obiorag.github.io/files/ccam_lunch_slides-1.pdf)** ![PDF](https://img.shields.io/badge/PDF-%20-blue)
-- **[Purdue Graduate Research Day](https://obiorag.github.io/files/LSM_Slides.pdf)** ![PDF](https://img.shields.io/badge/PDF-%20-blue)
-- **[Advanced Topics Presentation](https://obiorag.github.io/files/advanced_topics.pdf)** ![PDF](https://img.shields.io/badge/PDF-%20-blue)
+- **"A Factorization Method Approach to the Biharmonic Transmission Problem in Absorbing Media"**  
+  Baby Inverse Problems (BIP) Seminar, February 2026
+
+- **"A Factorization Method Approach to the Biharmonic Transmission Problem in Absorbing Media"**  
+  SIAM PDE Conference, Pittsburgh Sheraton Hotel, November 2025  
+  Minisymposium: MS47 – *Inverse Problems for PDEs: Inverse Scattering and Non-scattering*  
+  [Slides](https://obiorag.github.io/files/FM_Presentation.pdf) ![PDF](https://img.shields.io/badge/PDF-%20-blue)
+
 
 
 
