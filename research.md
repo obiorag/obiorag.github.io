@@ -13,7 +13,9 @@ title: ""
 
 2. **[I. Harris](https://sites.google.com/site/isaacpurduemath/home), [P. Li](https://www.cc.ac.cn/en/article/5/66.html?zc=36), and G. Ozochiawaeze**, “Sampling methods for the inverse cavity scattering problem of biharmonic waves,” *Inverse Problems* **42** (2026) 015002 ([DOI](https://doi.org/10.1088/1361-6420/ae2ef8), [PDF](https://obiorag.github.io/files/paper_no_1.pdf)).
 
+## Papers in Preparation
 
+1. **[I. Harris](https://sites.google.com/site/isaacpurduemath/home) and G. Ozochiawaeze**, “Novel implementation of the extended sampling method for inverse biharmonic scattering (Working Title),” *In Preparation*.
 
 
 ---
