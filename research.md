@@ -15,7 +15,7 @@ title: ""
 
 ## Papers in Preparation
 
-1. **[I. Harris](https://sites.google.com/site/isaacpurduemath/home) and G. Ozochiawaeze**, “Novel implementation of the extended sampling method for inverse biharmonic scattering (Working Title),” *In Preparation*.
+ **[I. Harris](https://sites.google.com/site/isaacpurduemath/home) and G. Ozochiawaeze**, “Novel implementation of the extended sampling method for inverse biharmonic scattering (Working Title),” *In Preparation*.
 
 
 ---
