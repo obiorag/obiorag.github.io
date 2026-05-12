@@ -14,19 +14,21 @@ title: ""
 
 2. **[R. Ceja Ayala](https://rafaelcejaayala.com/), [I. Harris](https://sites.google.com/site/isaacpurduemath/home), and G. Ozochiawaeze**,  
    “Factorization method for the biharmonic scattering problem for an absorbing penetrable scatterer,”  
-   *Submitted* ([arXiv:2511.05711](https://arxiv.org/abs/2511.05711)).
+   *To appear in Commun. Anal. Comput.*  
+   ([arXiv](https://arxiv.org/abs/2511.05711)).
 
 3. **[I. Harris](https://sites.google.com/site/isaacpurduemath/home), [P. Li](https://www.cc.ac.cn/en/article/5/66.html?zc=36), and G. Ozochiawaeze**,  
    “Sampling methods for the inverse cavity scattering problem of biharmonic waves,”  
    *Inverse Problems* **42** (2026), 015002  
-   ([DOI](https://doi.org/10.1088/1361-6420/ae2ef8), [arXiv:2509.02773](https://arxiv.org/abs/2509.02773)).
+   ([DOI](https://doi.org/10.1088/1361-6420/ae2ef8), [arXiv](https://arxiv.org/abs/2509.02773)).
 
 
 ---
 
 ## Notes
 
-- *[Direct Imaging Methods for Inverse Obstacle Scattering](https://obiorag.github.io/files/Direct_Imaging_Methods.pdf)* ![arXiv](https://img.shields.io/badge/arXiv-2311.16962-red) ([arXiv link](https://arxiv.org/abs/2311.16962))
+1. [Direct Imaging Methods for Inverse Obstacle Scattering](https://obiorag.github.io/files/Direct_Imaging_Methods.pdf)  
+   ([PDF](https://obiorag.github.io/files/Direct_Imaging_Methods.pdf), [arXiv](https://arxiv.org/abs/2311.16962)).
 
 ---
 
