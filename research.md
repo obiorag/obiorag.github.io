@@ -5,17 +5,16 @@ author_profile: true
 classes: wide
 title: ""
 ---
-
 ## Papers
 
 1. **[I. Harris](https://sites.google.com/site/isaacpurduemath/home) and G. Ozochiawaeze**,  
-   “Novel implementation of the extended sampling method for inverse biharmonic scattering,”  
- ([arXiv](https://arxiv.org/abs/2605.12367)).
+   “Novel implementation of the extended sampling method for inverse biharmonic scattering”  
+   ([arXiv](https://arxiv.org/abs/2605.12367)).
 
 2. **[R. Ceja Ayala](https://rafaelcejaayala.com/), [I. Harris](https://sites.google.com/site/isaacpurduemath/home), and G. Ozochiawaeze**,  
    “Factorization method for the biharmonic scattering problem for an absorbing penetrable scatterer,”  
-   *To appear in Commun. Anal. Comput.*  
-   ([arXiv](https://arxiv.org/abs/2511.05711)).
+   *Communications on Analysis and Computation* **9** (2026), 16--39  
+   ([DOI](https://doi.org/10.3934/cac.2026010), [arXiv](https://arxiv.org/abs/2511.05711)).
 
 3. **[I. Harris](https://sites.google.com/site/isaacpurduemath/home), [P. Li](https://www.cc.ac.cn/en/article/5/66.html?zc=36), and G. Ozochiawaeze**,  
    “Sampling methods for the inverse cavity scattering problem of biharmonic waves,”  
