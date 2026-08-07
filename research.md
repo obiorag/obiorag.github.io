@@ -5,53 +5,93 @@ author_profile: true
 classes: wide
 title: ""
 ---
-## Papers
 
-1. **[I. Harris](https://sites.google.com/site/isaacpurduemath/home) and G. Ozochiawaeze**,  
-   “Novel implementation of the extended sampling method for inverse biharmonic scattering”  
-   ([arXiv](https://arxiv.org/abs/2605.12367)).
+## <i class="fas fa-fw fa-book-open"></i> Publications & Preprints
 
-2. **[R. Ceja Ayala](https://rafaelcejaayala.com/), [I. Harris](https://sites.google.com/site/isaacpurduemath/home), and G. Ozochiawaeze**,  
-   “Factorization method for the biharmonic scattering problem for an absorbing penetrable scatterer,”  
-   *Communications on Analysis and Computation* **9** (2026), 16--39  
-   ([DOI](https://doi.org/10.3934/cac.2026010), [arXiv](https://arxiv.org/abs/2511.05711)).
+<div style="margin-bottom: 25px;">
+  <strong>1. Novel implementation of the extended sampling method for inverse biharmonic scattering</strong>
+  <br>
+  <strong>[I. Harris](https://sites.google.com/site/isaacpurduemath/home) and G. Ozochiawaeze</strong>
+  <br>
+  <span style="font-size: 0.9em; color: #555;">Preprint (2026)</span> &nbsp;&middot;&nbsp; 
+  <a href="https://arxiv.org/abs/2605.12367" style="text-decoration: none;"><img src="https://shields.io" alt="arXiv"></a>
+</div>
 
-3. **[I. Harris](https://sites.google.com/site/isaacpurduemath/home), [P. Li](https://www.cc.ac.cn/en/article/5/66.html?zc=36), and G. Ozochiawaeze**,  
-   “Sampling methods for the inverse cavity scattering problem of biharmonic waves,”  
-   *Inverse Problems* **42** (2026), 015002  
-   ([DOI](https://doi.org/10.1088/1361-6420/ae2ef8), [arXiv](https://arxiv.org/abs/2509.02773)).
+<div style="margin-bottom: 25px;">
+  <strong>2. Factorization method for the biharmonic scattering problem for an absorbing penetrable scatterer</strong>
+  <br>
+  <strong>[R. Ceja Ayala](https://rafaelcejaayala.com/), [I. Harris](https://sites.google.com/site/isaacpurduemath/home), and G. Ozochiawaeze</strong>
+  <br>
+  <em>Communications on Analysis and Computation</em>, Volume <strong>9</strong> (2026), pp. 16–39
+  <br>
+  <a href="https://doi.org/10.3934/cac.2026010" style="text-decoration: none;"><img src="https://shields.io" alt="DOI"></a> &nbsp;
+  <a href="https://arxiv.org/abs/2511.05711" style="text-decoration: none;"><img src="https://shields.io" alt="arXiv"></a>
+</div>
 
+<div style="margin-bottom: 25px;">
+  <strong>3. Sampling methods for the inverse cavity scattering problem of biharmonic waves</strong>
+  <br>
+  <strong>[I. Harris](https://sites.google.com/site/isaacpurduemath/home), [P. Li](https://www.cc.ac.cn/en/article/5/66.html?zc=36), and G. Ozochiawaeze</strong>
+  <br>
+  <em>Inverse Problems</em>, Volume <strong>42</strong> (2026), Article 015002
+  <br>
+  <a href="https://doi.org/10.1088/1361-6420/ae2ef8" style="text-decoration: none;"><img src="https://shields.io" alt="DOI"></a> &nbsp;
+  <a href="https://arxiv.org/abs/2509.02773" style="text-decoration: none;"><img src="https://shields.io" alt="arXiv"></a>
+</div>
 
 ---
 
-## Notes
+## <i class="fas fa-fw fa-file-alt"></i> Expository Notes
 
-1. **G. Ozochiawaeze**,  
-   “Direct Imaging Methods for Inverse Obstacle Scattering”  
-   ([PDF](https://obiorag.github.io/files/Direct_Imaging_Methods.pdf), [arXiv](https://arxiv.org/abs/2311.16962)).
+<div style="margin-bottom: 25px;">
+  <strong>Direct Imaging Methods for Inverse Obstacle Scattering</strong>
+  <br>
+  <strong>G. Ozochiawaeze</strong>
+  <br>
+  <a href="https://obiorag.github.io/files/Direct_Imaging_Methods.pdf" style="text-decoration: none;"><img src="https://shields.io" alt="PDF"></a> &nbsp;
+  <a href="https://arxiv.org/abs/2311.16962" style="text-decoration: none;"><img src="https://shields.io" alt="arXiv"></a>
+</div>
    
 ---
 
-## Invited Talks
+## <i class="fas fa-fw fa-microphone"></i> Selected Invited Talks
 
-- WAVES Conference, Concordia University, Montreal, Canada, June 2026  
-  Minisymposium – *Inverse Problems in Wave Scattering: Theory and Computation*
+<ul style="list-style-type: none; padding-left: 0;">
+  <li style="margin-bottom: 18px; border-left: 3px solid #007BA7; padding-left: 12px;">
+    <strong>WAVES Conference</strong> &middot; Montreal, Canada <span style="float: right; color: #666; font-size: 0.9em;">June 2026</span>
+    <br><small style="color: #555;">Minisymposium: <em>Inverse Problems in Wave Scattering: Theory and Computation</em></small>
+  </li>
 
-- Baby Inverse Problems (BIP) Seminar, February 2026
+  <li style="margin-bottom: 18px; border-left: 3px solid #007BA7; padding-left: 12px;">
+    <strong>Baby Inverse Problems (BIP) Seminar</strong> &middot; Online <span style="float: right; color: #666; font-size: 0.9em;">Feb 2026</span>
+  </li>
 
-- SIAM PDE Conference, Pittsburgh Sheraton Hotel, November 2025  
-  Minisymposium MS47 – *Inverse Problems for PDEs: Inverse Scattering and Non-scattering*  
-  [Slides](https://obiorag.github.io/files/FM_Presentation.pdf) ![PDF](https://img.shields.io/badge/PDF-%20-blue)
+  <li style="margin-bottom: 18px; border-left: 3px solid #007BA7; padding-left: 12px;">
+    <strong>SIAM Conference on Analysis of PDEs (PD25)</strong> &middot; Pittsburgh, PA <span style="float: right; color: #666; font-size: 0.9em;">Nov 2025</span>
+    <br><small style="color: #555;">Minisymposium MS47: <em>Inverse Problems for PDEs: Inverse Scattering and Non-scattering</em></small>
+    <br><a href="https://obiorag.github.io/files/FM_Presentation.pdf" style="text-decoration: none;"><img src="https://shields.io" alt="Slides"></a>
+  </li>
 
-- Purdue Graduate Research Day, November 2025
+  <li style="margin-bottom: 18px; border-left: 3px solid #ccc; padding-left: 12px;">
+    <strong>Purdue Graduate Research Day</strong> &middot; West Lafayette, IN <span style="float: right; color: #666; font-size: 0.9em;">Nov 2025</span>
+  </li>
   
-- Purdue CCAM Lunch Seminar, November 2025
+  <li style="margin-bottom: 18px; border-left: 3px solid #ccc; padding-left: 12px;">
+    <strong>Purdue CCAM Lunch Seminar</strong> &middot; West Lafayette, IN <span style="float: right; color: #666; font-size: 0.9em;">Nov 2025</span>
+  </li>
 
-- Purdue CCAM Lunch Seminar, February 2025
+  <li style="margin-bottom: 18px; border-left: 3px solid #ccc; padding-left: 12px;">
+    <strong>Purdue CCAM Lunch Seminar</strong> &middot; West Lafayette, IN <span style="float: right; color: #666; font-size: 0.9em;">Feb 2025</span>
+  </li>
   
-- Purdue Graduate Research Day, November 2024
+  <li style="margin-bottom: 18px; border-left: 3px solid #ccc; padding-left: 12px;">
+    <strong>Purdue Graduate Research Day</strong> &middot; West Lafayette, IN <span style="float: right; color: #666; font-size: 0.9em;">Nov 2024</span>
+  </li>
   
-- Purdue Student SIAM Chapter Conference, April 2024
+  <li style="margin-bottom: 18px; border-left: 3px solid #ccc; padding-left: 12px;">
+    <strong>Purdue SIAM Student Chapter Conference</strong> &middot; West Lafayette, IN <span style="float: right; color: #666; font-size: 0.9em;">Apr 2024</span>
+  </li>
+</ul>
 
 
 
