@@ -20,7 +20,7 @@ a img[alt="arXiv"], a img[alt="DOI"], a img[alt="PDF"], a img[alt="Slides"] {
 <div style="margin-bottom: 25px;">
   <strong>1. Novel implementation of the extended sampling method for inverse biharmonic scattering</strong>
   <br>
-  <a href="https://google.com" style="text-decoration: none; color: #007BA7;">I. Harris</a> and <strong>G. Ozochiawaeze</strong>
+  <a href="https://sites.google.com/site/isaacpurduemath/home" style="text-decoration: none; color: #007BA7;">I. Harris</a> and <strong>G. Ozochiawaeze</strong>
   <br>
   <span style="font-size: 0.9em; color: #555;">Preprint (2026)</span> &nbsp;&middot;&nbsp; 
   <a href="https://arxiv.org/abs/2605.12367" style="text-decoration: none;"><img src="https://img.shields.io/badge/arXiv-2605.12367-b31b1b.svg" alt="arXiv"></a>
@@ -29,7 +29,7 @@ a img[alt="arXiv"], a img[alt="DOI"], a img[alt="PDF"], a img[alt="Slides"] {
 <div style="margin-bottom: 25px;">
   <strong>2. Factorization method for the biharmonic scattering problem for an absorbing penetrable scatterer</strong>
   <br>
-  <a href="https://rafaelcejaayala.com" style="text-decoration: none; color: #007BA7;">R. Ceja Ayala</a>, <a href="https://google.com" style="text-decoration: none; color: #007BA7;">I. Harris</a>, and <strong>G. Ozochiawaeze</strong>
+  <a href="https://rafaelcejaayala.com" style="text-decoration: none; color: #007BA7;">R. Ceja Ayala</a>, <a href="https://sites.google.com/site/isaacpurduemath/home" style="text-decoration: none; color: #007BA7;">I. Harris</a>, and <strong>G. Ozochiawaeze</strong>
   <br>
   <em>Communications on Analysis and Computation</em>, Volume <strong>9</strong> (2026), pp. 16–39
   <br>
@@ -40,7 +40,7 @@ a img[alt="arXiv"], a img[alt="DOI"], a img[alt="PDF"], a img[alt="Slides"] {
 <div style="margin-bottom: 25px;">
   <strong>3. Sampling methods for the inverse cavity scattering problem of biharmonic waves</strong>
   <br>
-  <a href="https://google.com" style="text-decoration: none; color: #007BA7;">I. Harris</a>, <a href="https://cc.ac.cn" style="text-decoration: none; color: #007BA7;">P. Li</a>, and <strong>G. Ozochiawaeze</strong>
+  <a href="https://sites.google.com/site/isaacpurduemath/home" style="text-decoration: none; color: #007BA7;">I. Harris</a>, <a href="https://www.math.purdue.edu/~lipeijun/" style="text-decoration: none; color: #007BA7;">P. Li</a>, and <strong>G. Ozochiawaeze</strong>
   <br>
   <em>Inverse Problems</em>, Volume <strong>42</strong> (2026), Article 015002
   <br>
