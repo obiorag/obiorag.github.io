@@ -6,6 +6,15 @@ classes: wide
 title: ""
 ---
 
+<style>
+/* Shields.io Badge Fix for Mobile / All Browsers */
+a img[alt="arXiv"], a img[alt="DOI"], a img[alt="PDF"], a img[alt="Slides"] {
+  height: 20px;
+  width: auto;
+  vertical-align: middle;
+}
+</style>
+
 ## <i class="fas fa-fw fa-book-open"></i> Publications & Preprints
 
 <div style="margin-bottom: 25px;">
@@ -14,7 +23,7 @@ title: ""
   <a href="https://google.com" style="text-decoration: none; color: #007BA7;">I. Harris</a> and <strong>G. Ozochiawaeze</strong>
   <br>
   <span style="font-size: 0.9em; color: #555;">Preprint (2026)</span> &nbsp;&middot;&nbsp; 
-  <a href="https://arxiv.org/abs/2605.12367" style="text-decoration: none;"><img src="https://shields.io" alt="arXiv"></a>
+  <a href="https://arxiv.org/abs/2605.12367" style="text-decoration: none;"><img src="https://img.shields.io/badge/arXiv-2605.12367-b31b1b.svg" alt="arXiv"></a>
 </div>
 
 <div style="margin-bottom: 25px;">
@@ -24,8 +33,8 @@ title: ""
   <br>
   <em>Communications on Analysis and Computation</em>, Volume <strong>9</strong> (2026), pp. 16–39
   <br>
-  <a href="https://www.aimsciences.org/article/doi/10.3934/cac.2026010" style="text-decoration: none;"><img src="https://shields.io" alt="DOI"></a> &nbsp;
-  <a href="https://arxiv.org/abs/2511.05711" style="text-decoration: none;"><img src="https://shields.io" alt="arXiv"></a>
+  <a href="https://www.aimsciences.org/article/doi/10.3934/cac.2026010" style="text-decoration: none;"><img src="https://img.shields.io/badge/DOI-10.3934%2Fcac.2026010-007BA7.svg" alt="DOI"></a> &nbsp;
+  <a href="https://arxiv.org/abs/2511.05711" style="text-decoration: none;"><img src="https://img.shields.io/badge/arXiv-2511.05711-b31b1b.svg" alt="arXiv"></a>
 </div>
 
 <div style="margin-bottom: 25px;">
@@ -35,8 +44,8 @@ title: ""
   <br>
   <em>Inverse Problems</em>, Volume <strong>42</strong> (2026), Article 015002
   <br>
-  <a href="https://iopscience.iop.org/article/10.1088/1361-6420/ae2ef8" style="text-decoration: none;"><img src="https://shields.io" alt="DOI"></a> &nbsp;
-  <a href="https://arxiv.org/abs/2509.02773" style="text-decoration: none;"><img src="https://shields.io" alt="arXiv"></a>
+  <a href="https://iopscience.iop.org/article/10.1088/1361-6420/ae2ef8" style="text-decoration: none;"><img src="https://img.shields.io/badge/DOI-10.1088%2F1361--6420%2Fae2ef8-007BA7.svg" alt="DOI"></a> &nbsp;
+  <a href="https://arxiv.org/abs/2509.02773" style="text-decoration: none;"><img src="https://img.shields.io/badge/arXiv-2509.02773-b31b1b.svg" alt="arXiv"></a>
 </div>
 
 ---
@@ -48,8 +57,8 @@ title: ""
   <br>
   <strong>G. Ozochiawaeze</strong>
   <br>
-  <a href="/files/Direct_Imaging_Methods.pdf" style="text-decoration: none;"><img src="https://shields.io" alt="PDF"></a> &nbsp;
-  <a href="https://arxiv.org/abs/2311.16962" style="text-decoration: none;"><img src="https://shields.io" alt="arXiv"></a>
+  <a href="/files/Direct_Imaging_Methods.pdf" style="text-decoration: none;"><img src="https://img.shields.io/badge/PDF-Document-555555.svg" alt="PDF"></a> &nbsp;
+  <a href="https://arxiv.org/abs/2311.16962" style="text-decoration: none;"><img src="https://img.shields.io/badge/arXiv-2311.16962-b31b1b.svg" alt="arXiv"></a>
 </div>
    
 ---
@@ -69,7 +78,7 @@ title: ""
   <li style="margin-bottom: 18px; border-left: 3px solid #007BA7; padding-left: 12px;">
     <strong>SIAM Conference on Analysis of PDEs (PD25)</strong> &middot; Pittsburgh, PA <span style="float: right; color: #666; font-size: 0.9em;">Nov 2025</span>
     <br><small style="color: #555;">Minisymposium MS47: <em>Inverse Problems for PDEs: Inverse Scattering and Non-scattering</em></small>
-    <br><a href="/files/FM_Present.pdf" style="text-decoration: none;"><img src="https://shields.io" alt="Slides"></a>
+    <br><a href="/files/FM_Present.pdf" style="text-decoration: none;"><img src="https://img.shields.io/badge/Slides-PDF-007BA7.svg" alt="Slides"></a>
   </li>
 
   <li style="margin-bottom: 18px; border-left: 3px solid #ccc; padding-left: 12px;">
@@ -92,7 +101,6 @@ title: ""
     <strong>Purdue SIAM Student Chapter Conference</strong> &middot; West Lafayette, IN <span style="float: right; color: #666; font-size: 0.9em;">Apr 2024</span>
   </li>
 </ul>
-
 
 
 
