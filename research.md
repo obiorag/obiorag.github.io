@@ -14,7 +14,7 @@ title: ""
   <a href="https://google.com" style="text-decoration: none; color: #007BA7;">I. Harris</a> and <strong>G. Ozochiawaeze</strong>
   <br>
   <span style="font-size: 0.9em; color: #555;">Preprint (2026)</span> &nbsp;&middot;&nbsp; 
-  <a href="https://arxiv.org" style="text-decoration: none;"><img src="https://shields.io" alt="arXiv"></a>
+  <a href="https://arxiv.org/abs/2605.12367" style="text-decoration: none;"><img src="https://shields.io" alt="arXiv"></a>
 </div>
 
 <div style="margin-bottom: 25px;">
@@ -24,8 +24,8 @@ title: ""
   <br>
   <em>Communications on Analysis and Computation</em>, Volume <strong>9</strong> (2026), pp. 16–39
   <br>
-  <a href="https://doi.org" style="text-decoration: none;"><img src="https://shields.io" alt="DOI"></a> &nbsp;
-  <a href="https://arxiv.org" style="text-decoration: none;"><img src="https://shields.io" alt="arXiv"></a>
+  <a href="https://www.aimsciences.org/article/doi/10.3934/cac.2026010" style="text-decoration: none;"><img src="https://shields.io" alt="DOI"></a> &nbsp;
+  <a href="https://arxiv.org/abs/2511.05711" style="text-decoration: none;"><img src="https://shields.io" alt="arXiv"></a>
 </div>
 
 <div style="margin-bottom: 25px;">
@@ -35,8 +35,8 @@ title: ""
   <br>
   <em>Inverse Problems</em>, Volume <strong>42</strong> (2026), Article 015002
   <br>
-  <a href="https://doi.org" style="text-decoration: none;"><img src="https://shields.io" alt="DOI"></a> &nbsp;
-  <a href="https://arxiv.org" style="text-decoration: none;"><img src="https://shields.io" alt="arXiv"></a>
+  <a href="https://iopscience.iop.org/article/10.1088/1361-6420/ae2ef8" style="text-decoration: none;"><img src="https://shields.io" alt="DOI"></a> &nbsp;
+  <a href="https://arxiv.org/abs/2509.02773" style="text-decoration: none;"><img src="https://shields.io" alt="arXiv"></a>
 </div>
 
 ---
@@ -49,7 +49,7 @@ title: ""
   <strong>G. Ozochiawaeze</strong>
   <br>
   <a href="https://github.io" style="text-decoration: none;"><img src="https://shields.io" alt="PDF"></a> &nbsp;
-  <a href="https://arxiv.org" style="text-decoration: none;"><img src="https://shields.io" alt="arXiv"></a>
+  <a href="https://arxiv.org/abs/2311.16962" style="text-decoration: none;"><img src="https://shields.io" alt="arXiv"></a>
 </div>
    
 ---
