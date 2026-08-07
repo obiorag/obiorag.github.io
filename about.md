@@ -10,7 +10,7 @@ classes: wide
 <div style="max-width: 900px; margin: 0 auto 2.5rem auto; line-height: 1.6;">
   <h2 style="margin-top: 0;">Biography</h2>
   <p>
-    I am a Mathematics Ph.D. candidate at <strong>Purdue University</strong> specializing in partial differential equations (PDEs) and inverse wave scattering. My research focuses on developing rigorous mathematical frameworks and computational sampling methods to reconstruct hidden geometries from acoustic and electromagnetic wave data. 
+    I am a Mathematics Ph.D. candidate at <strong>Purdue University</strong> specializing in partial differential equations (PDEs) and inverse wave scattering. My research focuses on developing rigorous mathematical frameworks and computational sampling methods to reconstruct hidden geometries from elastic and flexural wave data. 
   </p>
   <p>
     Prior to Purdue, I earned my M.S. in Applied Mathematics from NJIT, focusing on underwater acoustics and finite element methods. Outside of core technical research, I am deeply invested in the human and foundational sides of mathematics, serving as the founder of the <strong>Math History Seminar</strong>.
