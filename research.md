@@ -48,7 +48,7 @@ title: ""
   <br>
   <strong>G. Ozochiawaeze</strong>
   <br>
-  <a href="https://github.io" style="text-decoration: none;"><img src="https://shields.io" alt="PDF"></a> &nbsp;
+  <a href="files/Direct_Imaging_Methods.pdf" style="text-decoration: none;"><img src="https://shields.io" alt="PDF"></a> &nbsp;
   <a href="https://arxiv.org/abs/2311.16962" style="text-decoration: none;"><img src="https://shields.io" alt="arXiv"></a>
 </div>
    
