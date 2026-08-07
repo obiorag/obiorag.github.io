@@ -11,7 +11,7 @@ title: ""
 <div style="margin-bottom: 25px;">
   <strong>1. Novel implementation of the extended sampling method for inverse biharmonic scattering</strong>
   <br>
-  <strong>[I. Harris](https://sites.google.com/site/isaacpurduemath/home) and G. Ozochiawaeze</strong>
+  [I. Harris](https://sites.google.com/site/isaacpurduemath/home) and G. Ozochiawaeze
   <br>
   <span style="font-size: 0.9em; color: #555;">Preprint (2026)</span> &nbsp;&middot;&nbsp; 
   <a href="https://arxiv.org/abs/2605.12367" style="text-decoration: none;"><img src="https://shields.io" alt="arXiv"></a>
@@ -20,7 +20,7 @@ title: ""
 <div style="margin-bottom: 25px;">
   <strong>2. Factorization method for the biharmonic scattering problem for an absorbing penetrable scatterer</strong>
   <br>
-  <strong>[R. Ceja Ayala](https://rafaelcejaayala.com/), [I. Harris](https://sites.google.com/site/isaacpurduemath/home), and G. Ozochiawaeze</strong>
+  [R. Ceja Ayala](https://rafaelcejaayala.com/), [I. Harris](https://sites.google.com/site/isaacpurduemath/home), and G. Ozochiawaeze
   <br>
   <em>Communications on Analysis and Computation</em>, Volume <strong>9</strong> (2026), pp. 16–39
   <br>
@@ -31,7 +31,7 @@ title: ""
 <div style="margin-bottom: 25px;">
   <strong>3. Sampling methods for the inverse cavity scattering problem of biharmonic waves</strong>
   <br>
-  <strong>[I. Harris](https://sites.google.com/site/isaacpurduemath/home), [P. Li](https://www.cc.ac.cn/en/article/5/66.html?zc=36), and G. Ozochiawaeze</strong>
+  [I. Harris](https://sites.google.com/site/isaacpurduemath/home), [P. Li](https://www.cc.ac.cn/en/article/5/66.html?zc=36), and G. Ozochiawaeze
   <br>
   <em>Inverse Problems</em>, Volume <strong>42</strong> (2026), Article 015002
   <br>
@@ -46,7 +46,7 @@ title: ""
 <div style="margin-bottom: 25px;">
   <strong>Direct Imaging Methods for Inverse Obstacle Scattering</strong>
   <br>
-  <strong>G. Ozochiawaeze</strong>
+  G. Ozochiawaeze
   <br>
   <a href="https://obiorag.github.io/files/Direct_Imaging_Methods.pdf" style="text-decoration: none;"><img src="https://shields.io" alt="PDF"></a> &nbsp;
   <a href="https://arxiv.org/abs/2311.16962" style="text-decoration: none;"><img src="https://shields.io" alt="arXiv"></a>
