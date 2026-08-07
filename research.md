@@ -48,7 +48,7 @@ title: ""
   <br>
   <strong>G. Ozochiawaeze</strong>
   <br>
-  <a href="files/Direct_Imaging_Methods.pdf" style="text-decoration: none;"><img src="https://shields.io" alt="PDF"></a> &nbsp;
+  <a href="/files/Direct_Imaging_Methods.pdf" style="text-decoration: none;"><img src="https://shields.io" alt="PDF"></a> &nbsp;
   <a href="https://arxiv.org/abs/2311.16962" style="text-decoration: none;"><img src="https://shields.io" alt="arXiv"></a>
 </div>
    
@@ -69,7 +69,7 @@ title: ""
   <li style="margin-bottom: 18px; border-left: 3px solid #007BA7; padding-left: 12px;">
     <strong>SIAM Conference on Analysis of PDEs (PD25)</strong> &middot; Pittsburgh, PA <span style="float: right; color: #666; font-size: 0.9em;">Nov 2025</span>
     <br><small style="color: #555;">Minisymposium MS47: <em>Inverse Problems for PDEs: Inverse Scattering and Non-scattering</em></small>
-    <br><a href="files/FM_Present.pdf" style="text-decoration: none;"><img src="https://shields.io" alt="Slides"></a>
+    <br><a href="/files/FM_Present.pdf" style="text-decoration: none;"><img src="https://shields.io" alt="Slides"></a>
   </li>
 
   <li style="margin-bottom: 18px; border-left: 3px solid #ccc; padding-left: 12px;">
