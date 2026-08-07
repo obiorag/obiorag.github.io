@@ -67,7 +67,7 @@ classes: wide
   font-weight: 600;
 }
 
-/* Teaching & Mentoring Cards */
+/* Teaching & Mentoring Clean Layout */
 .section-title {
   max-width: 900px;
   margin: 3rem auto 1.5rem auto;
@@ -107,16 +107,16 @@ classes: wide
 }
 
 .card-role {
-  font-size: 1.1rem;
-  font-weight: 700;
+  font-size: 1.05rem;
+  font-weight: 600;
   color: #222;
   margin-bottom: 0.8rem;
 }
 
-.course-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
-  gap: 1rem;
+.course-list {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
 }
 
 .course-item {
@@ -129,36 +129,43 @@ classes: wide
   align-items: center;
 }
 
+.course-info {
+  display: flex;
+  align-items: baseline;
+  gap: 0.5rem;
+}
+
 .course-code {
-  font-weight: 700;
+  font-weight: 600;
   color: #333;
+  font-size: 0.95rem;
 }
 
 .course-name {
   font-size: 0.9rem;
   color: #555;
-  margin-left: 0.4rem;
 }
 
 .course-term {
   font-size: 0.8rem;
-  font-weight: 600;
-  color: #777;
+  font-weight: 500;
+  color: #666;
   background: #f0f0f0;
   padding: 0.2rem 0.5rem;
   border-radius: 4px;
 }
 
 .mentor-project {
-  font-size: 0.9rem;
+  font-size: 0.88rem;
   color: #666;
-  margin-top: 0.2rem;
+  margin-top: 0.1rem;
 }
 
 @media (max-width: 600px) {
-  .timeline-header {
+  .timeline-header, .course-item {
     flex-direction: column;
-    gap: 0.1rem;
+    align-items: flex-start;
+    gap: 0.2rem;
   }
 }
 </style>
@@ -226,9 +233,9 @@ classes: wide
   <!-- Instructor Card -->
   <div class="teaching-card instructor">
     <div class="card-role">Instructor of Record</div>
-    <div class="course-grid">
-      <div class="course-item" style="grid-column: 1 / -1;">
-        <div>
+    <div class="course-list">
+      <div class="course-item">
+        <div class="course-info">
           <span class="course-code">MA 16020</span>
           <span class="course-name">Applied Calculus II</span>
         </div>
@@ -240,10 +247,10 @@ classes: wide
   <!-- TA Card -->
   <div class="teaching-card ta">
     <div class="card-role">Graduate Teaching Assistant</div>
-    <div class="course-grid">
+    <div class="course-list">
       
       <div class="course-item">
-        <div>
+        <div class="course-info">
           <span class="course-code">MA 511</span>
           <span class="course-name">Linear Algebra</span>
         </div>
@@ -251,15 +258,15 @@ classes: wide
       </div>
 
       <div class="course-item">
-        <div>
+        <div class="course-info">
           <span class="course-code">MA 251</span>
-          <span class="course-name">Multivariable Calc</span>
+          <span class="course-name">Multivariable Calculus</span>
         </div>
         <span class="course-term">Fall 2022</span>
       </div>
 
       <div class="course-item">
-        <div>
+        <div class="course-info">
           <span class="course-code">MA 162</span>
           <span class="course-name">Calculus II</span>
         </div>
@@ -267,7 +274,7 @@ classes: wide
       </div>
 
       <div class="course-item">
-        <div>
+        <div class="course-info">
           <span class="course-code">MA 161</span>
           <span class="course-name">Calculus I</span>
         </div>
@@ -280,19 +287,19 @@ classes: wide
   <!-- Mentoring Card -->
   <div class="teaching-card mentoring">
     <div class="card-role">Mentoring & Academic Service</div>
-    <div class="course-grid">
+    <div class="course-list">
       
-      <div class="course-item" style="flex-direction: column; align-items: flex-start; gap: 0.2rem;">
-        <div style="display: flex; justify-content: space-between; width: 100%; align-items: center;">
-          <span class="course-code" style="font-size: 0.95rem;">Purdue Math Directed Reading Program</span>
-          <span class="course-term">Spring 2025</span>
+      <div class="course-item">
+        <div>
+          <div class="course-code">Purdue Math Directed Reading Program</div>
+          <div class="mentor-project">Project Focus: Computational Topology</div>
         </div>
-        <div class="mentor-project">Project Focus: <em>Computational Topology</em></div>
+        <span class="course-term">Spring 2025</span>
       </div>
 
-      <div class="course-item" style="width: 100%;">
-        <div>
-          <span class="course-code" style="font-size: 0.95rem;">AMC / AIME Examination Mentoring</span>
+      <div class="course-item">
+        <div class="course-info">
+          <span class="course-code">AMC / AIME Examination Mentoring</span>
         </div>
         <span class="course-term">2020</span>
       </div>
