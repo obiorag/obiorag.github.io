@@ -6,162 +6,299 @@ author_profile: true
 classes: wide
 ---
 
-# Experiences
-<hr style="margin: 1em 0 2em 0; border: none; border-top: 2px solid #ddd; width: 60%;">
-
-## 💼 Employment & Research
-{: style="font-size:1.1em; font-weight:600; color:#444;"}
-
-<div class="cv-entry experience-block">
-  <strong>Purdue University</strong> — Graduate Research Assistant
-  <span class="cv-date">Aug 2023 – Aug 2024, Jan 2025 – Present, May 2025 – Aug 2025</span>
+<!-- Heading Grid -->
+<div style="max-width: 900px; margin: auto; padding-bottom: 1rem;">
+  <h1 style="margin-bottom: 0.2rem; font-size: 2.2rem; font-weight: 700; color: #222;">Experiences</h1>
+  <p style="color: #666; margin-top: 0; font-size: 1.05rem;">A timeline of research, industry engineering, and academic instruction.</p>
 </div>
-
-<div class="cv-entry experience-block">
-  <strong>MIT Lincoln Laboratory</strong> — Summer Research Intern, Group 36 – Integrated Missile Defense Technology
-  <span class="cv-date">May 2023 – Oct 2023</span>
-</div>
-
-<div class="cv-entry experience-block">
-  <strong>MIT Lincoln Laboratory</strong> — Summer Research Intern, Group 37 – Advanced Undersea Systems & Technology
-  <span class="cv-date">May 2022 – Aug 2022</span>
-</div>
-
-<div class="cv-entry experience-block">
-  <strong>NJIT</strong> — Research Assistant & Graduate Researcher
-  <span class="cv-date">July 2020 – May 2021</span>
-</div>
-
-<div class="cv-entry experience-block">
-  <strong>Accel Learning</strong> — Mathematics Instructor
-  <span class="cv-date">Sep 2020 – Dec 2020</span>
-</div>
-
-<div class="cv-entry experience-block">
-  <strong>Mathnasium</strong> — Mathematics Instructor & Tutor
-  <span class="cv-date">Sep 2018 – Jan 2019</span>
-</div>
-
-<hr style="margin: 2em 0; border: none; border-top: 1px solid #ddd;">
-
-## 🎓 Teaching & Mentoring
-{: style="font-size:1.1em; font-weight:600; color:#444;"}
-
-<div class="cv-entry teaching-block instructor">
-  <strong>Instructor, Purdue University</strong>
-  <span class="cv-date">Fall 2025</span>
-
-  <div class="teaching-course">
-    <strong>MA 16020</strong> Applied Calculus II
-    <span class="term">Fall 2025</span>
-  </div>
-</div>
-
-<div class="cv-entry teaching-block ta">
-  <strong>Teaching Assistant, Purdue University</strong>
-  <span class="cv-date">2021 – 2023</span>
-
-  <div class="teaching-course">
-    <strong>MA 511</strong> Linear Algebra and Applications
-    <span class="term">Spring 2023</span>
-  </div>
-
-  <div class="teaching-course">
-    <strong>MA 251</strong> Multivariable Calculus
-    <span class="term">Fall 2022</span>
-  </div>
-
-  <div class="teaching-course">
-    <strong>MA 162</strong> Calculus II
-    <span class="term">Spring 2022</span>
-  </div>
-
-  <div class="teaching-course">
-    <strong>MA 161</strong> Calculus I
-    <span class="term">Fall 2021</span>
-  </div>
-</div>
-
-<div class="cv-entry teaching-block mentoring">
-  <strong>Mentoring & Academic Service</strong>
-
-  <div class="teaching-course">
-    <span class="course-name"><strong>Purdue Math Directed Reading</strong></span>
-    <span class="term">Spring 2025</span>
-    <div class="project-title">Project: Computational Topology</div>
-  </div>
-
-  <div class="teaching-course">
-    <span class="course-name"><strong>AMC / AIME Mentoring</strong></span>
-    <span class="term">Spring–Fall 2020</span>
-  </div>
-</div>
-
 
 <style>
-/* -------------------- Employment / Research -------------------- */
-.experience-block {
-  margin-bottom: 1.8em;
-  padding-left: 1em;
+/* Modern Timeline Layout */
+.timeline {
+  max-width: 900px;
+  margin: 1.5rem auto 3.5rem auto;
   position: relative;
+  padding-left: 1.5rem;
+  border-left: 2px solid #ebeeef;
 }
 
-.experience-block:before {
-  content: "●";
+.timeline-item {
+  position: relative;
+  margin-bottom: 2rem;
+}
+
+.timeline-item::before {
+  content: "";
   position: absolute;
-  left: -1.4em;
-  color: #555;
-  font-size: 0.8em;
-  top: 0.25em;
+  left: calc(-1.5rem - 6px);
+  top: 0.35rem;
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background: #007BA7;
+  border: 2px solid #fff;
+  box-shadow: 0 0 0 2px rgba(0, 123, 167, 0.25);
 }
 
-.experience-block strong {
+.timeline-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.timeline-title {
+  font-size: 1.05rem;
   font-weight: 600;
   color: #222;
+  margin: 0;
 }
 
-.experience-block .cv-date {
-  float: right;
+.timeline-date {
+  font-size: 0.88rem;
   color: #666;
-  font-size: 0.9em;
+  font-weight: 500;
+  white-space: normal;
 }
 
-/* -------------------- Teaching & Mentoring -------------------- */
-.teaching-block {
-  margin-bottom: 2.5em;
-  padding-left: 0.8em;
+.timeline-org {
+  color: #007BA7;
+  font-weight: 600;
 }
 
-.teaching-block.instructor {
-  background-color: #f9f9f9;
-  border-left: 3px solid #007acc;
-  padding: 0.8em 1em;
+/* Teaching & Mentoring Cards */
+.section-title {
+  max-width: 900px;
+  margin: 3rem auto 1.5rem auto;
+  font-size: 1.4rem;
+  font-weight: 700;
+  color: #222;
+  border-bottom: 2px solid #f0f0f0;
+  padding-bottom: 0.4rem;
+}
+
+.teaching-container {
+  max-width: 900px;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+
+.teaching-card {
+  padding: 1.2rem 1.5rem;
+  border-radius: 8px;
+  background: #fafafa;
+  border: 1px solid #f0f0f0;
+}
+
+.teaching-card.instructor {
+  border-left: 4px solid #007BA7;
+  background: linear-gradient(to right, #f4fafd, #fafafa);
+}
+
+.teaching-card.ta {
+  border-left: 4px solid #555;
+}
+
+.teaching-card.mentoring {
+  border-left: 4px solid #aaa;
+}
+
+.card-role {
+  font-size: 1.1rem;
+  font-weight: 700;
+  color: #222;
+  margin-bottom: 0.8rem;
+}
+
+.course-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+  gap: 1rem;
+}
+
+.course-item {
+  background: #fff;
+  padding: 0.75rem 1rem;
+  border-radius: 6px;
+  border: 1px solid #ebeeef;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.course-code {
+  font-weight: 700;
+  color: #333;
+}
+
+.course-name {
+  font-size: 0.9rem;
+  color: #555;
+  margin-left: 0.4rem;
+}
+
+.course-term {
+  font-size: 0.8rem;
+  font-weight: 600;
+  color: #777;
+  background: #f0f0f0;
+  padding: 0.2rem 0.5rem;
   border-radius: 4px;
 }
 
-.teaching-block.ta {
-  margin-left: 1em;
-}
-
-.teaching-block.mentoring {
-  margin-left: 2em;
-  font-style: italic;
-  color: #444;
-}
-
-.teaching-course {
-  margin-left: 1em;
-  margin-top: 0.3em;
-  color: #444;
-}
-
-.teaching-course strong {
-  font-weight: 600;
-}
-
-.term {
-  float: right;
+.mentor-project {
+  font-size: 0.9rem;
   color: #666;
-  font-size: 0.9em;
+  margin-top: 0.2rem;
+}
+
+@media (max-width: 600px) {
+  .timeline-header {
+    flex-direction: column;
+    gap: 0.1rem;
+  }
 }
 </style>
+
+<!-- Section 1: Employment & Research -->
+<div class="section-title">
+  <i class="fas fa-briefcase" style="color: #007BA7; margin-right: 0.3rem;"></i> Employment & Research
+</div>
+
+<div class="timeline">
+  
+  <div class="timeline-item">
+    <div class="timeline-header">
+      <div class="timeline-title"><span class="timeline-org">Purdue University</span> &mdash; Graduate Research Assistant</div>
+      <div class="timeline-date">2023 – 2024, 2025 – Present</div>
+    </div>
+  </div>
+
+  <div class="timeline-item">
+    <div class="timeline-header">
+      <div class="timeline-title"><span class="timeline-org">MIT Lincoln Laboratory</span> &mdash; Summer Research Intern</div>
+      <div class="timeline-date">May 2023 – Oct 2023</div>
+    </div>
+    <div style="font-size: 0.88rem; color: #666; margin-top: 0.2rem;">Group 36 &middot; Integrated Missile Defense Technology</div>
+  </div>
+
+  <div class="timeline-item">
+    <div class="timeline-header">
+      <div class="timeline-title"><span class="timeline-org">MIT Lincoln Laboratory</span> &mdash; Summer Research Intern</div>
+      <div class="timeline-date">May 2022 – Aug 2022</div>
+    </div>
+    <div style="font-size: 0.88rem; color: #666; margin-top: 0.2rem;">Group 37 &middot; Advanced Undersea Systems & Technology</div>
+  </div>
+
+  <div class="timeline-item">
+    <div class="timeline-header">
+      <div class="timeline-title"><span class="timeline-org">NJIT</span> &mdash; Research Assistant & Graduate Researcher</div>
+      <div class="timeline-date">July 2020 – May 2021</div>
+    </div>
+  </div>
+
+  <div class="timeline-item">
+    <div class="timeline-header">
+      <div class="timeline-title"><span class="timeline-org">Accel Learning</span> &mdash; Mathematics Instructor</div>
+      <div class="timeline-date">Sep 2020 – Dec 2020</div>
+    </div>
+  </div>
+
+  <div class="timeline-item">
+    <div class="timeline-header">
+      <div class="timeline-title"><span class="timeline-org">Mathnasium</span> &mdash; Mathematics Instructor & Tutor</div>
+      <div class="timeline-date">Sep 2018 – Jan 2019</div>
+    </div>
+  </div>
+
+</div>
+
+<!-- Section 2: Teaching & Mentoring -->
+<div class="section-title">
+  <i class="fas fa-graduation-cap" style="color: #555; margin-right: 0.3rem;"></i> Teaching & Mentoring
+</div>
+
+<div class="teaching-container">
+
+  <!-- Instructor Card -->
+  <div class="teaching-card instructor">
+    <div class="card-role">Instructor of Record</div>
+    <div class="course-grid">
+      <div class="course-item" style="grid-column: 1 / -1;">
+        <div>
+          <span class="course-code">MA 16020</span>
+          <span class="course-name">Applied Calculus II</span>
+        </div>
+        <span class="course-term" style="background: #e2f0f7; color: #007BA7;">Fall 2025</span>
+      </div>
+    </div>
+  </div>
+
+  <!-- TA Card -->
+  <div class="teaching-card ta">
+    <div class="card-role">Graduate Teaching Assistant</div>
+    <div class="course-grid">
+      
+      <div class="course-item">
+        <div>
+          <span class="course-code">MA 511</span>
+          <span class="course-name">Linear Algebra</span>
+        </div>
+        <span class="course-term">Spring 2023</span>
+      </div>
+
+      <div class="course-item">
+        <div>
+          <span class="course-code">MA 251</span>
+          <span class="course-name">Multivariable Calc</span>
+        </div>
+        <span class="course-term">Fall 2022</span>
+      </div>
+
+      <div class="course-item">
+        <div>
+          <span class="course-code">MA 162</span>
+          <span class="course-name">Calculus II</span>
+        </div>
+        <span class="course-term">Spring 2022</span>
+      </div>
+
+      <div class="course-item">
+        <div>
+          <span class="course-code">MA 161</span>
+          <span class="course-name">Calculus I</span>
+        </div>
+        <span class="course-term">Fall 2021</span>
+      </div>
+
+    </div>
+  </div>
+
+  <!-- Mentoring Card -->
+  <div class="teaching-card mentoring">
+    <div class="card-role">Mentoring & Academic Service</div>
+    <div class="course-grid">
+      
+      <div class="course-item" style="flex-direction: column; align-items: flex-start; gap: 0.2rem;">
+        <div style="display: flex; justify-content: space-between; width: 100%; align-items: center;">
+          <span class="course-code" style="font-size: 0.95rem;">Purdue Math Directed Reading Program</span>
+          <span class="course-term">Spring 2025</span>
+        </div>
+        <div class="mentor-project">Project Focus: <em>Computational Topology</em></div>
+      </div>
+
+      <div class="course-item" style="width: 100%;">
+        <div>
+          <span class="course-code" style="font-size: 0.95rem;">AMC / AIME Examination Mentoring</span>
+        </div>
+        <span class="course-term">2020</span>
+      </div>
+
+    </div>
+  </div>
+
+</div>
+
