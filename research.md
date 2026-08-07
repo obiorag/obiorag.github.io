@@ -11,32 +11,32 @@ title: ""
 <div style="margin-bottom: 25px;">
   <strong>1. Novel implementation of the extended sampling method for inverse biharmonic scattering</strong>
   <br>
-  [I. Harris](https://sites.google.com/site/isaacpurduemath/home) and G. Ozochiawaeze
+  <a href="https://google.com" style="text-decoration: none; color: #007BA7;">I. Harris</a> and <strong>G. Ozochiawaeze</strong>
   <br>
   <span style="font-size: 0.9em; color: #555;">Preprint (2026)</span> &nbsp;&middot;&nbsp; 
-  <a href="https://arxiv.org/abs/2605.12367" style="text-decoration: none;"><img src="https://shields.io" alt="arXiv"></a>
+  <a href="https://arxiv.org" style="text-decoration: none;"><img src="https://shields.io" alt="arXiv"></a>
 </div>
 
 <div style="margin-bottom: 25px;">
   <strong>2. Factorization method for the biharmonic scattering problem for an absorbing penetrable scatterer</strong>
   <br>
-  [R. Ceja Ayala](https://rafaelcejaayala.com/), [I. Harris](https://sites.google.com/site/isaacpurduemath/home), and G. Ozochiawaeze
+  <a href="https://rafaelcejaayala.com" style="text-decoration: none; color: #007BA7;">R. Ceja Ayala</a>, <a href="https://google.com" style="text-decoration: none; color: #007BA7;">I. Harris</a>, and <strong>G. Ozochiawaeze</strong>
   <br>
   <em>Communications on Analysis and Computation</em>, Volume <strong>9</strong> (2026), pp. 16–39
   <br>
-  <a href="https://doi.org/10.3934/cac.2026010" style="text-decoration: none;"><img src="https://shields.io" alt="DOI"></a> &nbsp;
-  <a href="https://arxiv.org/abs/2511.05711" style="text-decoration: none;"><img src="https://shields.io" alt="arXiv"></a>
+  <a href="https://doi.org" style="text-decoration: none;"><img src="https://shields.io" alt="DOI"></a> &nbsp;
+  <a href="https://arxiv.org" style="text-decoration: none;"><img src="https://shields.io" alt="arXiv"></a>
 </div>
 
 <div style="margin-bottom: 25px;">
   <strong>3. Sampling methods for the inverse cavity scattering problem of biharmonic waves</strong>
   <br>
-  [I. Harris](https://sites.google.com/site/isaacpurduemath/home), [P. Li](https://www.cc.ac.cn/en/article/5/66.html?zc=36), and G. Ozochiawaeze
+  <a href="https://google.com" style="text-decoration: none; color: #007BA7;">I. Harris</a>, <a href="https://cc.ac.cn" style="text-decoration: none; color: #007BA7;">P. Li</a>, and <strong>G. Ozochiawaeze</strong>
   <br>
   <em>Inverse Problems</em>, Volume <strong>42</strong> (2026), Article 015002
   <br>
-  <a href="https://doi.org/10.1088/1361-6420/ae2ef8" style="text-decoration: none;"><img src="https://shields.io" alt="DOI"></a> &nbsp;
-  <a href="https://arxiv.org/abs/2509.02773" style="text-decoration: none;"><img src="https://shields.io" alt="arXiv"></a>
+  <a href="https://doi.org" style="text-decoration: none;"><img src="https://shields.io" alt="DOI"></a> &nbsp;
+  <a href="https://arxiv.org" style="text-decoration: none;"><img src="https://shields.io" alt="arXiv"></a>
 </div>
 
 ---
@@ -46,10 +46,10 @@ title: ""
 <div style="margin-bottom: 25px;">
   <strong>Direct Imaging Methods for Inverse Obstacle Scattering</strong>
   <br>
-  G. Ozochiawaeze
+  <strong>G. Ozochiawaeze</strong>
   <br>
-  <a href="https://obiorag.github.io/files/Direct_Imaging_Methods.pdf" style="text-decoration: none;"><img src="https://shields.io" alt="PDF"></a> &nbsp;
-  <a href="https://arxiv.org/abs/2311.16962" style="text-decoration: none;"><img src="https://shields.io" alt="arXiv"></a>
+  <a href="https://github.io" style="text-decoration: none;"><img src="https://shields.io" alt="PDF"></a> &nbsp;
+  <a href="https://arxiv.org" style="text-decoration: none;"><img src="https://shields.io" alt="arXiv"></a>
 </div>
    
 ---
@@ -69,7 +69,7 @@ title: ""
   <li style="margin-bottom: 18px; border-left: 3px solid #007BA7; padding-left: 12px;">
     <strong>SIAM Conference on Analysis of PDEs (PD25)</strong> &middot; Pittsburgh, PA <span style="float: right; color: #666; font-size: 0.9em;">Nov 2025</span>
     <br><small style="color: #555;">Minisymposium MS47: <em>Inverse Problems for PDEs: Inverse Scattering and Non-scattering</em></small>
-    <br><a href="https://obiorag.github.io/files/FM_Presentation.pdf" style="text-decoration: none;"><img src="https://shields.io" alt="Slides"></a>
+    <br><a href="https://github.io" style="text-decoration: none;"><img src="https://shields.io" alt="Slides"></a>
   </li>
 
   <li style="margin-bottom: 18px; border-left: 3px solid #ccc; padding-left: 12px;">
@@ -92,6 +92,7 @@ title: ""
     <strong>Purdue SIAM Student Chapter Conference</strong> &middot; West Lafayette, IN <span style="float: right; color: #666; font-size: 0.9em;">Apr 2024</span>
   </li>
 </ul>
+
 
 
 
