@@ -18,74 +18,170 @@ title: Home
 </script>
 
 <style>
-/* --- Global rhythm --- */
+/* =========================================================
+   HOME PAGE
+   ========================================================= */
+
 #main {
   max-width: 1000px;
   margin: auto;
 }
 
-.post {
+.home-page {
+  --accent: #007BA7;
+  --ink: #222;
+  --muted: #777;
+  --light: #f5f7f8;
+  --line: #dfe4e7;
+}
+
+/* ---------- Hero ---------- */
+
+.home-hero {
+  position: relative;
+  text-align: center;
+  padding: 18px 0 52px;
+  margin-bottom: 42px;
+  border-bottom: 1px solid var(--line);
+}
+
+.home-eyebrow {
+  font-size: 0.82rem;
+  text-transform: uppercase;
+  letter-spacing: 0.18em;
+  color: var(--accent);
+  margin-bottom: 14px;
+}
+
+.home-hero h1 {
+  margin: 0;
+  font-size: 2.7rem;
+  font-weight: 400;
+  letter-spacing: -0.025em;
+  line-height: 1.2;
+}
+
+.home-hero p {
+  max-width: 720px;
+  margin: 18px auto 0;
+  font-size: 1.15rem;
+  line-height: 1.75;
+  color: var(--muted);
+}
+
+.home-hero::after {
+  content: "";
+  display: block;
+  width: 85px;
+  height: 3px;
+  background: var(--accent);
+  margin: 28px auto 0;
+}
+
+/* ---------- Image ---------- */
+
+.home-image {
+  margin: 0 auto 58px;
   text-align: center;
 }
 
-/* --- Paragraph font size bump --- */
-.post p {
-  font-size: 1.05rem;  /* ↑ makes paragraphs slightly bigger and easier to read */
-}
-  
-/* --- Intro header --- */
-header.major p {
-  font-size: 1.1rem;
-  line-height: 1.6;
-  max-width: 750px;
-  margin: 0 auto 2rem auto;
-  opacity: 0.9;
-}
-
-/* --- Image polish --- */
-.image.main img {
+.home-image img {
   display: block;
-  margin: 0 auto 2.5rem auto;
+  width: 550px;
+  max-width: 100%;
+  height: 450px;
+  object-fit: cover;
+  margin: 0 auto;
   border-radius: 14px;
-  box-shadow: 0 18px 40px rgba(0,0,0,0.18);
-  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  box-shadow: 0 14px 32px rgba(0,0,0,0.14);
+  transition:
+    transform 0.3s ease,
+    box-shadow 0.3s ease;
 }
 
-.image.main img:hover {
+.home-image img:hover {
   transform: translateY(-4px);
-  box-shadow: 0 28px 60px rgba(0,0,0,0.25);
+  box-shadow: 0 22px 45px rgba(0,0,0,0.19);
 }
 
-/* --- Section headers --- */
-h2 {
-  margin-top: 3rem;
-  letter-spacing: 0.08em;
-  text-transform: uppercase;
-  font-size: 0.9rem;
-  opacity: 0.75;
+/* ---------- Content Sections ---------- */
+
+.home-section {
+  max-width: 800px;
+  margin: 0 auto 62px;
 }
 
-/* --- Body text --- */
-.post p {
-  max-width: 780px;
-  margin: 1rem auto;
-  line-height: 1.65;
+.home-section-heading {
+  display: flex;
+  align-items: baseline;
+  gap: 15px;
+  margin-bottom: 25px;
+}
+
+.home-section-number {
+  font-family: Georgia, serif;
   font-size: 0.98rem;
+  color: var(--accent);
 }
 
-/* --- Links --- */
-a {
-  border-bottom: 1px solid rgba(0,0,0,0.3);
+.home-section h2 {
+  margin: 0;
+  font-size: 0.95rem;
+  font-weight: 600;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  color: #444;
+}
+
+.home-section p {
+  margin: 0;
+  font-size: 1.1rem;
+  line-height: 1.8;
+  color: #444;
+}
+
+.home-section strong {
+  color: var(--ink);
+  font-weight: 600;
+}
+
+/* ---------- CV ---------- */
+
+.cv-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-top: 22px;
+}
+
+.cv-links a {
+  display: inline-block;
+  padding: 7px 15px;
+  border: 1px solid #ccd5d9;
+  border-radius: 3px;
+  color: #666;
   text-decoration: none;
+  font-size: 0.78rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  transition:
+    background 0.18s ease,
+    color 0.18s ease,
+    border-color 0.18s ease,
+    transform 0.18s ease;
 }
 
-a:hover {
-  border-bottom-color: black;
+.cv-links a:hover {
+  background: var(--accent);
+  border-color: var(--accent);
+  color: white;
+  transform: translateY(-1px);
 }
 
-/* --- Footer alignment --- */
+/* ---------- Footer ---------- */
+
 #footer {
-  margin-top: 4rem;
+  margin-top: 5rem;
 }
 
 #footer .contact {
@@ -95,11 +191,24 @@ a:hover {
   text-align: left;
 }
 
-/* --- Social icons --- */
+#footer .contact h3 {
+  font-size: 0.78rem;
+  text-transform: uppercase;
+  letter-spacing: 0.14em;
+}
+
+#footer .contact p {
+  font-size: 0.92rem;
+  line-height: 1.7;
+}
+
+/* ---------- Social Icons ---------- */
+
 .social-icons {
   display: flex;
   gap: 1rem;
   padding-left: 0;
+  margin-top: 0.5rem;
 }
 
 .social-icons li {
@@ -109,95 +218,207 @@ a:hover {
 .social-icons a {
   font-size: 1.2rem;
   opacity: 0.7;
-  transition: opacity 0.2s ease, transform 0.2s ease;
+  transition:
+    opacity 0.2s ease,
+    transform 0.2s ease;
 }
 
 .social-icons a:hover {
   opacity: 1;
   transform: translateY(-2px);
 }
+
+/* ---------- Mobile ---------- */
+
+@media (max-width: 600px) {
+
+  .home-hero {
+    padding-bottom: 42px;
+  }
+
+  .home-hero h1 {
+    font-size: 2.1rem;
+  }
+
+  .home-hero p {
+    font-size: 1.04rem;
+  }
+
+  .home-image {
+    margin-bottom: 45px;
+  }
+
+  .home-image img {
+    height: auto;
+    max-height: 450px;
+  }
+
+  .home-section {
+    margin-bottom: 50px;
+  }
+
+  .home-section p {
+    font-size: 1.02rem;
+    line-height: 1.75;
+  }
+
+  #footer .contact {
+    grid-template-columns: 1fr;
+  }
+}
 </style>
 
 
 <!-- Main Content -->
+
 <div id="main">
-  <section class="post">
-    <header class="major">
-      <p>I am a PhD candidate in the Department of Mathematics at Purdue University, working with Prof. Peijun Li and Prof. Isaac Harris.</p>
+
+  <div class="home-page">
+
+    <!-- HERO -->
+
+    <header class="home-hero">
+      <div class="home-eyebrow">
+        Mathematics · Inverse Problems · PDEs
+      </div>
+
+      <h1>G. Ozochiawaeze</h1>
+
+      <p>
+        I am a PhD candidate in the Department of Mathematics at
+        Purdue University, working with Prof. Peijun Li and Prof. Isaac Harris.
+      </p>
     </header>
 
-    <div class="image main">
-      <img src="img/PHOTO-2024-05-17-21-56-05.jpg" width="550" height="450" alt="Profile photo" />
+
+    <!-- PHOTO -->
+
+    <div class="home-image">
+      <img
+        src="img/PHOTO-2024-05-17-21-56-05.jpg"
+        width="550"
+        height="450"
+        alt="Profile photo"
+      />
     </div>
 
-    <h2>Research Interests</h2>
-     <p>
-      I study <strong>inverse problems for partial differential equations</strong>, with an emphasis on scattering theory and wave phenomena, motivated by questions in imaging and detection.
-    </p>
+
+    <!-- RESEARCH -->
+
+    <section class="home-section">
+
+      <div class="home-section-heading">
+        <span class="home-section-number">01</span>
+        <h2>Research Interests</h2>
+      </div>
+
+      <p>
+        I study <strong>inverse problems for partial differential equations</strong>,
+        with an emphasis on scattering theory and wave phenomena, motivated by
+        questions in imaging and detection.
+      </p>
+
+    </section>
 
 
-  <h2>Thesis Focus</h2>
-  <p>
-  My thesis work investigates <strong>direct and inverse scattering problems</strong> for thin elastic plates, modeled by a biharmonic wave equation.
-  The goal is to develop <strong>efficient, rigorous algorithms</strong> for detecting defects, extending qualitative reconstruction methods
-  from acoustics and electromagnetics to elastic materials.
-  </p>
+    <!-- THESIS -->
+
+    <section class="home-section">
+
+      <div class="home-section-heading">
+        <span class="home-section-number">02</span>
+        <h2>Thesis Focus</h2>
+      </div>
+
+      <p>
+        My thesis work investigates <strong>direct and inverse scattering problems</strong>
+        for thin elastic plates, modeled by a biharmonic wave equation.
+        The goal is to develop <strong>efficient, rigorous algorithms</strong>
+        for detecting defects, extending qualitative reconstruction methods
+        from acoustics and electromagnetics to elastic materials.
+      </p>
+
+    </section>
 
 
-    <h2>CV</h2>
-    <p>
-      You can download my resume <a href="files/updated_resume.pdf">here</a> and my cv <a href="files/my_cv-21.pdf">here</a>.
-    </p>
-  </section>
+    <!-- CV -->
+
+    <section class="home-section">
+
+      <div class="home-section-heading">
+        <span class="home-section-number">03</span>
+        <h2>Curriculum Vitae</h2>
+      </div>
+
+      <p>
+        Selected academic materials are available below.
+      </p>
+
+      <div class="cv-links">
+        <a href="files/updated_resume.pdf">Résumé ↗</a>
+        <a href="files/my_cv-21.pdf">CV ↗</a>
+      </div>
+
+    </section>
+
+  </div>
+
 </div>
 
+
 <!-- Footer -->
+
 <footer id="footer">
+
   <section class="split contact">
+
     <section class="alt">
       <h3>Primary Affiliation</h3>
+
       <p>
-        <a href="https://www.math.purdue.edu/">Department of Mathematics at Purdue</a><br/>
+        <a href="https://www.math.purdue.edu/">
+          Department of Mathematics at Purdue
+        </a><br/>
         Purdue University<br />
-        Mathematical Sciences Bldg, 150 N University St, 6th floor<br/>  
+        Mathematical Sciences Bldg, 150 N University St, 6th floor<br/>
         West Lafayette, Indiana, USA 47907
       </p>
     </section>
 
+
     <section class="alt">
       <h3>E-mail</h3>
+
       <p>
         oozochia@purdue.edu<br/>
         gozochiawaeze@gmail.com
       </p>
     </section>
 
-  <!-- Social Media Section -->
-<section class="social-media">
-  <h3>Connect with Me</h3>
-  <ul class="social-icons">
-    <li>
-      <a href="https://www.linkedin.com/in/general-ozochiawaeze-568748139" class="icon fa fa-linkedin" title="LinkedIn">
-        <span class="label">LinkedIn</span>
-      </a>
-    </li>
-    <li>
-      <a href="https://github.com/your-github" class="icon fa fa-github" title="GitHub">
-        <span class="label">GitHub</span>
-      </a>
-    </li>
-    <li>
-      <a href="https://twitter.com/your-twitter" class="icon fa fa-twitter" title="Twitter">
-        <span class="label">Twitter</span>
-      </a>
-    </li>
-    <li>
-      <a href="https://your-website.com" class="icon fa fa-globe" title="Personal Website">
-        <span class="label">Website</span>
-      </a>
-    </li>
-  </ul>
-</section>
+
+    <!-- Social Media -->
+
+    <section class="social-media">
+      <h3>Connect with Me</h3>
+
+      <ul class="social-icons">
+
+        <li>
+          <a
+            href="https://www.linkedin.com/in/general-ozochiawaeze-568748139"
+            class="icon fa fa-linkedin"
+            title="LinkedIn"
+          >
+            <span class="label">LinkedIn</span>
+          </a>
+        </li>
+
+      </ul>
+    </section>
+
+  </section>
+
+</footer>
 
       
 
