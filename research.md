@@ -27,65 +27,66 @@ title: ""
 
 .research-header {
   position: relative;
-  padding: 10px 0 48px;
-  margin-bottom: 42px;
+  padding: 14px 0 58px;
+  margin-bottom: 52px;
   border-bottom: 1px solid var(--line);
 }
 
 .research-header::after {
   content: "";
   display: block;
-  width: 70px;
+  width: 85px;
   height: 3px;
   background: var(--accent);
-  margin-top: 24px;
+  margin-top: 28px;
 }
 
 .research-eyebrow {
-  font-size: 0.72rem;
+  font-size: 0.82rem;
   text-transform: uppercase;
   letter-spacing: 0.18em;
   color: var(--accent);
-  margin-bottom: 12px;
+  margin-bottom: 15px;
 }
 
 .research-header h1 {
   margin: 0;
-  font-size: 2.15rem;
+  font-size: 2.7rem;
   font-weight: 400;
-  letter-spacing: -0.02em;
+  letter-spacing: -0.025em;
+  line-height: 1.2;
 }
 
 .research-header p {
-  max-width: 650px;
-  margin: 14px 0 0;
+  max-width: 700px;
+  margin: 18px 0 0;
   color: var(--muted);
-  font-size: 0.95rem;
-  line-height: 1.7;
+  font-size: 1.08rem;
+  line-height: 1.75;
 }
 
 /* ---------- Sections ---------- */
 
 .research-section {
-  margin-bottom: 72px;
+  margin-bottom: 88px;
 }
 
 .section-heading {
   display: flex;
   align-items: baseline;
-  gap: 14px;
-  margin-bottom: 30px;
+  gap: 17px;
+  margin-bottom: 36px;
 }
 
 .section-number {
   font-family: Georgia, serif;
-  font-size: 0.82rem;
+  font-size: 1rem;
   color: var(--accent);
 }
 
 .section-heading h2 {
   margin: 0;
-  font-size: 0.82rem;
+  font-size: 0.95rem;
   font-weight: 600;
   text-transform: uppercase;
   letter-spacing: 0.16em;
@@ -97,9 +98,9 @@ title: ""
 .publication {
   position: relative;
   display: grid;
-  grid-template-columns: 70px 1fr;
-  gap: 20px;
-  padding: 27px 0 31px;
+  grid-template-columns: 78px 1fr;
+  gap: 24px;
+  padding: 32px 0 36px;
   border-top: 1px solid var(--line);
 }
 
@@ -109,7 +110,7 @@ title: ""
 
 .pub-number {
   font-family: Georgia, serif;
-  font-size: 2.15rem;
+  font-size: 2.7rem;
   color: #d5dadd;
   line-height: 1;
   transition: color 0.2s ease;
@@ -124,17 +125,17 @@ title: ""
 }
 
 .pub-title {
-  font-size: 1.08rem;
-  line-height: 1.5;
+  font-size: 1.25rem;
+  line-height: 1.55;
   font-weight: 400;
-  margin-bottom: 8px;
+  margin-bottom: 11px;
   color: var(--ink);
 }
 
 .pub-authors {
-  font-size: 0.88rem;
+  font-size: 1rem;
   color: #666;
-  line-height: 1.6;
+  line-height: 1.65;
 }
 
 .pub-authors a {
@@ -147,26 +148,27 @@ title: ""
 }
 
 .pub-meta {
-  margin-top: 7px;
-  font-size: 0.84rem;
+  margin-top: 9px;
+  font-size: 0.96rem;
   color: var(--muted);
+  line-height: 1.6;
 }
 
 .pub-links {
   display: flex;
-  gap: 7px;
-  margin-top: 13px;
+  gap: 9px;
+  margin-top: 16px;
   flex-wrap: wrap;
 }
 
 .pub-links a {
   display: inline-block;
-  padding: 4px 10px;
+  padding: 6px 13px;
   border: 1px solid #ccd5d9;
   border-radius: 3px;
   color: #666;
   text-decoration: none;
-  font-size: 0.7rem;
+  font-size: 0.78rem;
   text-transform: uppercase;
   letter-spacing: 0.08em;
   transition:
@@ -187,39 +189,40 @@ title: ""
 
 .note-card {
   position: relative;
-  padding: 28px 30px;
+  padding: 34px 36px;
   background: var(--light);
-  border-left: 3px solid var(--accent);
+  border-left: 4px solid var(--accent);
   transition: transform 0.2s ease, box-shadow 0.2s ease;
 }
 
 .note-card:hover {
-  transform: translateX(4px);
-  box-shadow: 0 7px 24px rgba(0,0,0,0.06);
+  transform: translateX(5px);
+  box-shadow: 0 9px 28px rgba(0,0,0,0.06);
 }
 
 .note-title {
-  font-size: 1.08rem;
+  font-size: 1.25rem;
   font-weight: 400;
-  margin-bottom: 7px;
+  line-height: 1.5;
+  margin-bottom: 9px;
 }
 
 .note-author {
-  font-size: 0.86rem;
+  font-size: 0.96rem;
   color: var(--muted);
 }
 
 .note-links {
-  margin-top: 16px;
+  margin-top: 19px;
 }
 
 .note-links a {
   color: var(--accent);
-  font-size: 0.74rem;
+  font-size: 0.8rem;
   text-transform: uppercase;
   letter-spacing: 0.08em;
   text-decoration: none;
-  margin-right: 18px;
+  margin-right: 20px;
 }
 
 .note-links a::after {
@@ -235,14 +238,14 @@ title: ""
 
 .talk-list {
   position: relative;
-  margin-left: 10px;
-  padding-left: 30px;
+  margin-left: 12px;
+  padding-left: 36px;
   border-left: 1px solid #ccd5d9;
 }
 
 .talk {
   position: relative;
-  padding: 0 0 30px;
+  padding: 0 0 38px;
 }
 
 .talk:last-child {
@@ -252,10 +255,10 @@ title: ""
 .talk::before {
   content: "";
   position: absolute;
-  left: -35px;
-  top: 5px;
-  width: 9px;
-  height: 9px;
+  left: -42px;
+  top: 6px;
+  width: 11px;
+  height: 11px;
   border: 2px solid var(--accent);
   background: white;
   border-radius: 50%;
@@ -267,38 +270,38 @@ title: ""
 }
 
 .talk-date {
-  font-size: 0.69rem;
+  font-size: 0.8rem;
   text-transform: uppercase;
   letter-spacing: 0.12em;
   color: var(--accent);
-  margin-bottom: 5px;
+  margin-bottom: 7px;
 }
 
 .talk-title {
-  font-size: 1rem;
-  line-height: 1.45;
+  font-size: 1.12rem;
+  line-height: 1.5;
   color: var(--ink);
 }
 
 .talk-location {
   display: inline-block;
-  margin-top: 3px;
-  font-size: 0.82rem;
+  margin-top: 4px;
+  font-size: 0.94rem;
   color: var(--muted);
 }
 
 .talk-detail {
-  margin-top: 5px;
-  font-size: 0.82rem;
+  margin-top: 7px;
+  font-size: 0.94rem;
   color: #777;
-  line-height: 1.55;
+  line-height: 1.65;
 }
 
 .talk-slides {
   display: inline-block;
-  margin-top: 8px;
+  margin-top: 10px;
   color: var(--accent);
-  font-size: 0.7rem;
+  font-size: 0.78rem;
   text-transform: uppercase;
   letter-spacing: 0.08em;
   text-decoration: none;
@@ -312,34 +315,64 @@ title: ""
 
 @media (max-width: 600px) {
 
+  .research-header {
+    padding-bottom: 45px;
+  }
+
   .research-header h1 {
-    font-size: 1.75rem;
+    font-size: 2.1rem;
   }
 
-  .publication {
-    grid-template-columns: 42px 1fr;
-    gap: 12px;
-  }
-
-  .pub-number {
-    font-size: 1.6rem;
-  }
-
-  .pub-title {
+  .research-header p {
     font-size: 1rem;
   }
 
+  .publication {
+    grid-template-columns: 48px 1fr;
+    gap: 14px;
+    padding: 27px 0 31px;
+  }
+
+  .pub-number {
+    font-size: 1.9rem;
+  }
+
+  .pub-title {
+    font-size: 1.1rem;
+  }
+
+  .pub-authors {
+    font-size: 0.94rem;
+  }
+
+  .pub-meta {
+    font-size: 0.9rem;
+  }
+
   .note-card {
-    padding: 22px;
+    padding: 27px;
+  }
+
+  .note-title {
+    font-size: 1.1rem;
   }
 
   .talk-list {
-    margin-left: 5px;
-    padding-left: 24px;
+    margin-left: 6px;
+    padding-left: 28px;
   }
 
   .talk::before {
-    left: -29px;
+    left: -34px;
+  }
+
+  .talk-title {
+    font-size: 1rem;
+  }
+
+  .talk-location,
+  .talk-detail {
+    font-size: 0.88rem;
   }
 }
 </style>
