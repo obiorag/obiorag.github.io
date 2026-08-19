@@ -526,10 +526,23 @@ title: ""
 
     <div class="section-heading">
       <span class="section-number">03</span>
-      <h2>Selected Invited Talks</h2>
+      <h2> Invited Talks</h2>
     </div>
 
     <div class="talk-list">
+
+   <div class="talk">
+     <div class="talk-date">August 2026</div>
+     <div class="talk-title">
+    Summer School 2026: Theory and Applications of Elliptic PDE
+     </div>
+     <div class="talk-location">
+    University of California, Irvine
+     </div>
+    <div class="talk-detail">
+    August 17–21, 2026
+     </div>
+   </div>
 
 
       <div class="talk">
