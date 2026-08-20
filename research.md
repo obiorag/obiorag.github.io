@@ -531,18 +531,19 @@ title: ""
 
     <div class="talk-list">
 
-   <div class="talk">
-     <div class="talk-date">August 2026</div>
-     <div class="talk-title">
+  <div class="talk">
+  <div class="talk-date">August 2026</div>
+  <div class="talk-title">
     Summer School 2026: Theory and Applications of Elliptic PDE
-     </div>
-     <div class="talk-location">
+  </div>
+  <div class="talk-location">
     University of California, Irvine
-     </div>
-    <div class="talk-detail">
+  </div>
+  <div class="talk-detail">
     August 17–21, 2026
-     </div>
-   </div>
+  </div>
+  <a class="talk-slides" href="/files/ESM_15min_talk.pdf">View Slides ↗</a>
+</div>
 
 
       <div class="talk">
