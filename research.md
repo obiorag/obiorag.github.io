@@ -401,6 +401,27 @@ title: ""
       <h2>Publications &amp; Preprints</h2>
     </div>
 
+<div class="publication">
+
+  <div class="pub-number">02</div>
+
+  <div class="pub-content">
+
+    <div class="pub-title">
+      Factorization method for a clamped obstacle from near-field
+      measurements via a far-field transformation
+    </div>
+
+    <div class="pub-authors">
+      <span>G. Ozochiawaeze</span>
+    </div>
+
+    <div class="pub-meta">
+      In preparation · 2026
+    </div>
+
+  </div>
+</div>
 
     <div class="publication">
 
