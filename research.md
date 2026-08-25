@@ -425,7 +425,7 @@ title: ""
 
     <div class="publication">
 
-      <div class="pub-number">01</div>
+      <div class="pub-number">03</div>
 
       <div class="pub-content">
 
@@ -482,7 +482,7 @@ title: ""
 
     <div class="publication">
 
-      <div class="pub-number">03</div>
+      <div class="pub-number">01</div>
 
       <div class="pub-content">
 
