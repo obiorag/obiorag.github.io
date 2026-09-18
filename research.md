@@ -405,10 +405,6 @@ title: ""
 
   <div class="pub-number">04</div>
 
-  <div class="publication">
-
-  <div class="pub-number">04</div>
-
   <div class="pub-content">
 
     <div class="pub-title">
