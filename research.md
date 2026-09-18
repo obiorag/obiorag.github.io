@@ -405,19 +405,27 @@ title: ""
 
   <div class="pub-number">04</div>
 
+  <div class="publication">
+
+  <div class="pub-number">04</div>
+
   <div class="pub-content">
 
     <div class="pub-title">
-      Factorization method for a clamped obstacle from near-field
-      measurements via a far-field transformation
+      Factorization method for a clamped obstacle from near-field measurements via a far-field transformation
     </div>
 
     <div class="pub-authors">
       <span>G. Ozochiawaeze</span>
+      and <a href="https://sites.google.com/site/isaacpurduemath/home">I. Harris</a>
     </div>
 
     <div class="pub-meta">
-      In preparation · 2026
+      Preprint · 2026
+    </div>
+
+    <div class="pub-links">
+      <a href="https://arxiv.org/abs/2609.20528">arXiv</a>
     </div>
 
   </div>
