@@ -42,7 +42,7 @@ title: ""
 }
 
 .research-eyebrow {
-  font-size: 0.82rem;
+  font-size: 0.86rem;
   text-transform: uppercase;
   letter-spacing: 0.18em;
   color: var(--accent);
@@ -61,7 +61,7 @@ title: ""
   max-width: 700px;
   margin: 18px 0 0;
   color: var(--muted);
-  font-size: 1.08rem;
+  font-size: 1.12rem;
   line-height: 1.75;
 }
 
@@ -80,13 +80,13 @@ title: ""
 
 .section-number {
   font-family: Georgia, serif;
-  font-size: 1rem;
+  font-size: 1.05rem;
   color: var(--accent);
 }
 
 .section-heading h2 {
   margin: 0;
-  font-size: 0.95rem;
+  font-size: 1rem;
   font-weight: 600;
   text-transform: uppercase;
   letter-spacing: 0.16em;
@@ -125,7 +125,7 @@ title: ""
 }
 
 .pub-title {
-  font-size: 1.25rem;
+  font-size: 1.32rem;
   line-height: 1.55;
   font-weight: 400;
   margin-bottom: 11px;
@@ -133,7 +133,7 @@ title: ""
 }
 
 .pub-authors {
-  font-size: 1rem;
+  font-size: 1.06rem;
   color: #666;
   line-height: 1.65;
 }
@@ -149,7 +149,7 @@ title: ""
 
 .pub-meta {
   margin-top: 9px;
-  font-size: 0.96rem;
+  font-size: 1rem;
   color: var(--muted);
   line-height: 1.6;
 }
@@ -168,7 +168,7 @@ title: ""
   border-radius: 3px;
   color: #666;
   text-decoration: none;
-  font-size: 0.78rem;
+  font-size: 0.82rem;
   text-transform: uppercase;
   letter-spacing: 0.08em;
   transition:
@@ -201,14 +201,14 @@ title: ""
 }
 
 .note-title {
-  font-size: 1.25rem;
+  font-size: 1.32rem;
   font-weight: 400;
   line-height: 1.5;
   margin-bottom: 9px;
 }
 
 .note-author {
-  font-size: 0.96rem;
+  font-size: 1rem;
   color: var(--muted);
 }
 
@@ -218,7 +218,7 @@ title: ""
 
 .note-links a {
   color: var(--accent);
-  font-size: 0.8rem;
+  font-size: 0.84rem;
   text-transform: uppercase;
   letter-spacing: 0.08em;
   text-decoration: none;
@@ -270,7 +270,7 @@ title: ""
 }
 
 .talk-date {
-  font-size: 0.8rem;
+  font-size: 0.84rem;
   text-transform: uppercase;
   letter-spacing: 0.12em;
   color: var(--accent);
@@ -278,7 +278,7 @@ title: ""
 }
 
 .talk-title {
-  font-size: 1.12rem;
+  font-size: 1.18rem;
   line-height: 1.5;
   color: var(--ink);
 }
@@ -286,13 +286,13 @@ title: ""
 .talk-location {
   display: inline-block;
   margin-top: 4px;
-  font-size: 0.94rem;
+  font-size: 1rem;
   color: var(--muted);
 }
 
 .talk-detail {
   margin-top: 7px;
-  font-size: 0.94rem;
+  font-size: 1rem;
   color: #777;
   line-height: 1.65;
 }
@@ -301,7 +301,7 @@ title: ""
   display: inline-block;
   margin-top: 10px;
   color: var(--accent);
-  font-size: 0.78rem;
+  font-size: 0.82rem;
   text-transform: uppercase;
   letter-spacing: 0.08em;
   text-decoration: none;
@@ -324,7 +324,7 @@ title: ""
   }
 
   .research-header p {
-    font-size: 1rem;
+    font-size: 1.04rem;
   }
 
   .publication {
@@ -338,15 +338,15 @@ title: ""
   }
 
   .pub-title {
-    font-size: 1.1rem;
+    font-size: 1.16rem;
   }
 
   .pub-authors {
-    font-size: 0.94rem;
+    font-size: 0.99rem;
   }
 
   .pub-meta {
-    font-size: 0.9rem;
+    font-size: 0.95rem;
   }
 
   .note-card {
@@ -354,7 +354,15 @@ title: ""
   }
 
   .note-title {
-    font-size: 1.1rem;
+    font-size: 1.16rem;
+  }
+
+  .note-author {
+    font-size: 0.95rem;
+  }
+
+  .note-links a {
+    font-size: 0.82rem;
   }
 
   .talk-list {
@@ -366,13 +374,21 @@ title: ""
     left: -34px;
   }
 
+  .talk-date {
+    font-size: 0.82rem;
+  }
+
   .talk-title {
-    font-size: 1rem;
+    font-size: 1.06rem;
   }
 
   .talk-location,
   .talk-detail {
-    font-size: 0.88rem;
+    font-size: 0.94rem;
+  }
+
+  .talk-slides {
+    font-size: 0.8rem;
   }
 }
 </style>
